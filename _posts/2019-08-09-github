@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Some references for getting started with Git / GitHub / GitHub Pages"
+date: 2019-08-09
+---
+
+#### GitHub
+
+* [Hello World GitHub Guide](https://guides.github.com/activities/hello-world/)
+* [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+
+#### GitHub Pages
+
+* Jonathan McGlone, [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+
+#### HTML code
+
+* [Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.](https://htmlcolorcodes.com)
+* [Font Awesome](https://fontawesome.com/): "Get vector icons and social logos on your website [...] most popular icon set and toolkit."
+* [For LaTeX: The fontawesome package - High quality web icons](https://www.ctan.org/pkg/fontawesome)
