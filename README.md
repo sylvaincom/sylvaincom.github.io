@@ -4,6 +4,8 @@ This repository contains the code generating my [GitHub Page](https://sylvaincom
 
 Website launched on August 7, 2019 and regularly updated ever since.
 
+## Resources
+
 To set up my GitHub Page, I used the following tutorial: [A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages](http://jmcglone.com/guides/github-pages/).
 
 Also see:
