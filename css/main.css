@@ -19,10 +19,10 @@ dt, dd, li { margin-bottom: 0.2em; }
 
 /* h */
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-h1 { font-size: 2.7em; color: #008080; }
-h2 { font-size: 2.3em; color: #008080; }
-h3 { font-size: 1.9em; color: #008080; }
-h4 { font-size: 1.6em; color: #008080; }
+h1 { font-size: 2.7em; color: #008080; background-color:rgb(246, 246, 246); }
+h2 { font-size: 2.3em; color: #008080; background-color:rgb(246, 246, 246); }
+h3 { font-size: 1.9em; color: #008080; background-color:rgb(246, 246, 246); }
+h4 { font-size: 1.6em; color: #008080; background-color:rgb(246, 246, 246); }
 
 nav ul, footer ul {
 	font-size: 1.2em;
