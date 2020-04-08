@@ -1,5 +1,6 @@
 /* Body size and margin */
 body {
+	font-size: 1.45em;
 	margin: 50px 50px 50px 50px;
 	width: 85%;
 	font-family: "Roboto", sans-serif;
@@ -10,22 +11,22 @@ a { text-decoration: none; color: #0066CC; }
 a:hover { text-decoration: underline; }
 
 /* p, ul, q, blockquote */
-p, ul, q, dl { font-size: 1.45em; line-height: 1.3em; color: #333; margin-bottom: 1em; }
+p, ul, q, dl { line-height: 1.3em; color: #333; margin-bottom: 0.2em; }
 
-dt, dd, li { margin-bottom: 0.2em; }
+dt, dd, li { margin-bottom: 0.1em; }
 
 /* .post > ul {padding-bottom: 1em; padding-top: 2em; } */
 .post > blockquote {margin-top: 0.2em; margin-bottom: 0.2em; font-size: 1.4em; }
 
 /* h */
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-h1 { font-size: 2.7em; color: #008080; background-color:rgb(242, 242, 242); }
-h2 { font-size: 2.3em; color: #008080; background-color:rgb(242, 242, 242); }
-h3 { font-size: 1.9em; color: #008080; background-color:rgb(242, 242, 242); }
-h4 { font-size: 1.6em; color: #008080; background-color:rgb(242, 242, 242); }
+h1 { font-size: 1.5em; color: #008080; background-color:rgb(242, 242, 242); }
+h2 { font-size: 1.4em; color: #008080; background-color:rgb(242, 242, 242); }
+h3 { font-size: 1.3em; color: #008080; background-color:rgb(242, 242, 242); }
+h4 { font-size: 1.2em; color: #008080; background-color:rgb(242, 242, 242); }
 
 nav ul, footer ul {
-	font-size: 1.2em;
+	font-size: 0.9em;
 	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 	padding: 0px;
 	list-style: none;
@@ -36,9 +37,9 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.45em; }
+ul.posts { margin: 20px auto 40px; font-size: 1em; }
 ul.posts li { list-style: none; margin-bottom: 0.2em; }
-.container h1 { font-size: 2em; }
+.container h1 { font-size: 1.5em; }
 
 /* CV */
 /* .cv { margin: 0px 0px 60px; }
