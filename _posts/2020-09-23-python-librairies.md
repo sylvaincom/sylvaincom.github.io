@@ -14,7 +14,7 @@ In this post, I suggest some open-source Python libraries for Data Scientists. I
 - [For time series](#ts)
 
 <a name='main'></a>
-#### Machine Learning in general
+#### For Machine Learning in general
 * [NumPy](https://www.numpy.org){:target="_blank"} by Travis Oliphant: "The fundamental package for scientific computing with Python".<br/>
 GitHub repository [here](https://github.com/numpy/numpy){:target="_blank"}.
 * [Pandas](https://pandas.pydata.org){:target="_blank"} by Wes McKinney: "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more."<br/>
