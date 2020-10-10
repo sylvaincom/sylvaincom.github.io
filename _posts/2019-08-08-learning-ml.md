@@ -6,6 +6,10 @@ date: 2019-08-08
 
 In this post, I suggest some references for getting started and beyond with ML.
 
+I also suggest having a look at:
+* Jason Brownlee / [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/){:target="_blank"} / _Machine Learning Mastery_
+* [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html){:target="_blank"} / _scikit-learn_
+
 **Table of Contents:**
 - [Lecture videos available online for free](#videos)
 - [Books available online for free](#books1)
@@ -52,6 +56,7 @@ Free PDF [here](https://members.loria.fr/FSur/enseignement/apprauto/poly_appraut
 * [deeplearning.ai](https://www.deeplearning.ai/){:target="_blank"} by Andrew Ng: "Whether you want to build algorithms or build a company, deeplearning.ai's Machine Learning courses will teach you key concepts and applications of AI."
 * [Fast.ai](https://www.fast.ai){:target="_blank"}: "Making neural nets uncool again"
 * [Kaggle](https://www.kaggle.com/learn/overview){:target="_blank"}: "Faster Data Science Education. Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."
+* [Workera](https://workera.ai/){:target="_blank"} by _deeplearning.ai_: "Standardized testing for AI skills. Test your abilities with assessments developed by a team of AI experts led by Dr. Andrew Ng and Kian Katanforoosh from deeplearning.ai."
 
 <a name='books2'></a>
 #### Books not available online for free
