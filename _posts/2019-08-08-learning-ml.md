@@ -6,21 +6,23 @@ date: 2019-08-08
 
 In this post, I suggest some references for getting started and beyond with ML.
 
-I also suggest having a look at:
+I also compiled some advice from other Data Scientists on how to start learning ML:
+* Santiago Víquez Segura / [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93){:target="_blank"} / _Towards Data Science_ / Apr. 25, 2020
 * Jason Brownlee / [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/){:target="_blank"} / _Machine Learning Mastery_
+* [Thomas Wolf](https://thomwolf.io/){:target="_blank"} / [I started my online education in AI/ML reading books and following online courses](https://thomwolf.io/data/Thom_wolf_reading_list.txt){:target="_blank"}
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html){:target="_blank"} / _scikit-learn_
 
 **Table of Contents:**
-- [Lecture videos available online for free](#videos)
-- [Books available online for free](#books1)
+- [Academic lecture videos available online for free](#videos)
 - [Online learning platforms](#platforms)
-- [Books not available for free](#books2)
+- [Books](#books)
 - [Blogs](#blogs)
 - [Online tools for a better interpretation of machine learning](#tools)
 
 <a name='videos'></a>
-#### Lecture videos available online for free
+#### Academic lecture videos available online for free
 
+Introduction to Machine Learning and Deep Learning:
 * Andrew Ng / [Machine Learning](https://www.coursera.org/learn/machine-learning){:target="_blank"} / _Coursera_ / 2011<br/>
 "In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself."
 * Andrew Ng, Chris Ré and Tengyu Ma / [CS229: Machine Learning](http://cs229.stanford.edu/){:target="_blank"} / _Stanford University_<br/>
@@ -29,23 +31,38 @@ The lecture videos from Automn 2018 are available on [YouTube](https://www.youtu
 * Andrew Ng and Kian Katanforoosh / [CS230: Deep Learning](https://cs230.stanford.edu/){:target="_blank"} / _Stanford University_<br/>
 "Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more."<br/>
 The lecture videos from Automn 2018 are available on [YouTube](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb){:target="_blank"}.
-* Fei-Fei Li, Justin Johnson, Serena Yeung / [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/){:target="_blank"} / _Stanford University_<br/>
-"This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for [visual recognition systems], particularly image classification."<br/>
-The lecture videos from Spring 2017 are available on [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv){:target="_blank"}.
 * Alexander Amini and Ava Soleimany / [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/){:target="_blank"} / _MIT_<br/>
 "MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow."<br/>
 The lecture videos from 2020 are available on [YouTube](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1){:target="_blank"}.
 
-Not for beginners:
-* Sergey Levine / [CS 285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) / _UC Berkeley_<br/>
+More specific Machine Learning:
+* Fei-Fei Li, Justin Johnson, Serena Yeung / [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/){:target="_blank"} / _Stanford University_<br/>
+"This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for [visual recognition systems], particularly image classification."<br/>
+The lecture videos from Spring 2017 are available on [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv){:target="_blank"}.
+* Chris Manning / [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/){:target="_blank"} / _Stanford University_<br/>
+"Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP." <br/>
+The lecture videos from Winter 2019 are available on [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z){:target="_blank"}.
+* Emma Brunskill / [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html){:target="_blank"} / _Stanford University_<br/>
+"To realize the dreams and impact of AI requires autonomous systems that learn to make good decisions. Reinforcement learning is one powerful paradigm for doing so, and it is relevant to an enormous range of tasks, including robotics, game playing, consumer modeling and healthcare."<br/>
+The lecture videos from Winter 2019 are available on [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u){:target="_blank"}.
+* Sergey Levine / [CS 285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/){:target="_blank"} / _UC Berkeley_<br/>
 The lecture videos from 2020 are available on [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc){:target="_blank"}.
-* Chelsea Finn / [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/){:target="_blank"} / _Stanford_<br/>
+* Chelsea Finn / [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/){:target="_blank"} / _Stanford University_<br/>
 "While deep learning has achieved remarkable success in supervised and reinforcement learning problems, such as image classification, speech recognition, and game playing, these models are, to a large degree, specialized for the single task they are trained for. This course will cover the setting where there are multiple tasks to be solved, and study how the structure arising from multiple tasks can be leveraged to learn more efficiently or effectively."<br/>
 The lecture videos from Fall 2019 are available on [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5){:target="_blank"}.
 
+<a name='platforms'></a>
+#### Online learning platforms
+* [DataCamp](https://www.datacamp.com/){:target="_blank"}: "Learn Data Science from the comfort of your browser, at your own pace with DataCamp's video tutorials & coding challenges on R, Python, Statistics & more."
+* [deeplearning.ai](https://www.deeplearning.ai/){:target="_blank"} by Andrew Ng: "Whether you want to build algorithms or build a company, deeplearning.ai's Machine Learning courses will teach you key concepts and applications of AI."
+* [Fast.ai](https://www.fast.ai){:target="_blank"}: "Making neural nets uncool again"
+* [Kaggle](https://www.kaggle.com/learn/overview){:target="_blank"}: "Faster Data Science Education. Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."
+* [Workera](https://workera.ai/){:target="_blank"} by _deeplearning.ai_: "Standardized testing for AI skills. Test your abilities with assessments developed by a team of AI experts led by Dr. Andrew Ng and Kian Katanforoosh from deeplearning.ai."
 
-<a name='books1'></a>
-#### Books available online for free
+<a name='books'></a>
+#### Books
+
+Books available online for free:
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville / [Deep Learning](https://www.deeplearningbook.org/){:target="_blank"} / _MIT Press_ / 2016<br/>
 "The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free."
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman / [The elements of statistical learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/){:target="_blank"} 2nd edition / _Springer_ / 2008<br/>
@@ -63,16 +80,7 @@ Free PDF [here](http://cazencott.info/dotclear/public/lectures/IntroML_Azencott.
 "Contenu: apprentissage supervisé (classification, régression) et non-supervisé (partitionnement), malédiction de la dimension, dilemme biais-fluctuation, théorie statistique de l'apprentissage, régression logistique, plus proches voisins, machines à vecteurs supports (dualité de Wolfe, astuce du noyau), réseaux de neurones artificiels (Perceptron de Rosenblatt, théorème de Cybenko, apprentissage et rétropropagation des erreurs, régularisation, introduction à l'apprentissage profond)."<br/>
 Free PDF [here](https://members.loria.fr/FSur/enseignement/apprauto/poly_apprauto_FSur.pdf){:target="_blank"}.
 
-<a name='platforms'></a>
-#### Online learning platforms
-* [DataCamp](https://www.datacamp.com/){:target="_blank"}: "Learn Data Science from the comfort of your browser, at your own pace with DataCamp's video tutorials & coding challenges on R, Python, Statistics & more."
-* [deeplearning.ai](https://www.deeplearning.ai/){:target="_blank"} by Andrew Ng: "Whether you want to build algorithms or build a company, deeplearning.ai's Machine Learning courses will teach you key concepts and applications of AI."
-* [Fast.ai](https://www.fast.ai){:target="_blank"}: "Making neural nets uncool again"
-* [Kaggle](https://www.kaggle.com/learn/overview){:target="_blank"}: "Faster Data Science Education. Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."
-* [Workera](https://workera.ai/){:target="_blank"} by _deeplearning.ai_: "Standardized testing for AI skills. Test your abilities with assessments developed by a team of AI experts led by Dr. Andrew Ng and Kian Katanforoosh from deeplearning.ai."
-
-<a name='books2'></a>
-#### Books not available for free
+Books not available for free:
 * Aurélien Géron / [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/){:target="_blank"}, 2nd Edition / _O'Reilly_ / 2019<br/>
 "You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you’ve learned, all you need is programming experience to get started."
 
@@ -124,5 +132,5 @@ Part of my work include crafting, building and deploying AI applications to answ
 "Tinker With a Neural Network Right Here in Your Browser. Don’t Worry, You Can’t Break It. We Promise."
 * [GAN Lab](https://poloclub.github.io/ganlab/){:target="_blank"} by Polo Club of Data Science<br/>
 "Play with Generative Adversarial Networks (GANs) in your browser!"
-* [Polo Club of Data Science](https://poloclub.github.io/)<br/>
+* [Polo Club of Data Science](https://poloclub.github.io/){:target="_blank"}<br/>
 "At Georgia Tech, we innovate scalable, interactive, and interpretable tools that amplify human's ability to understand and interact with billion-scale data and machine learning models. Our current research thrusts: human-centered AI (interpretable, fair, safe AI; adversarial ML); large graph visualization and mining; cybersecurity; and social good (health, energy)."
