@@ -35,6 +35,8 @@ GitHub repository [here](https://github.com/tensorflow/tensorflow){:target="_bla
 #### For Machine Learning Operations / industrialization
 * [Airflow](https://airflow.apache.org/){:target="_blank"} by Apache: "Airflow is a platform created by the community to programmatically author, schedule and monitor workflows."<br/>
 GitHub repository [here](https://github.com/apache/airflow){:target="_blank"}.
+* [creme](https://creme-ml.github.io/){:target="_blank"}: "creme is a Python library for online machine learning. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data."<br/>
+GitHub repository [here](https://github.com/creme-ml/creme){:target="_blank"}.
 * [Dask](https://dask.org/){:target="_blank"}: "Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love".<br/>
 GitHub repository [here](https://github.com/dask/dask){:target="_blank"}.
 * [Kedro](https://kedro.readthedocs.io/en/stable/){:target="_blank"} by QuantumBlack Labs: "Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines."<br/>
@@ -68,12 +70,14 @@ GitHub repository [here](https://github.com/slundberg/shap){:target="_blank"}.
 <a name='ts'></a>
 #### For time series
 
-I highly suggest having a look at [Time Series Forecasting Best Practices & Examples](https://microsoft.github.io/forecasting/){:target="_blank"} by Microsoft.
+I highly suggest having a look at [Time Series Forecasting Best Practices & Examples](https://microsoft.github.io/forecasting/){:target="_blank"} by Microsoft and [Time series related software](https://github.com/alan-turing-institute/sktime/wiki/related-software){:target="_blank"} by The Alan Turing Institute.
 
 * [Anomaly Detection Toolkit (ADTK)](https://adtk.readthedocs.io/en/stable/){:target="_blank"} by Arundo Analytics: "Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection."<br/>
 GitHub repository [here](https://github.com/arundo/adtk){:target="_blank"}.
 * [darts](https://unit8co.github.io/darts/){:target="_blank"} by Unit8: "darts is a python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA to neural networks. The models can all be used in the same way, using fit() and predict() functions, similar to scikit-learn."<br/>
 GitHub repository [here](https://github.com/unit8co/darts){:target="_blank"}.
+* [GluonTS](https://gluon-ts.mxnet.io/){:target="_blank"} by Amazon Web Services: "Gluon Time Series (GluonTS) is the Gluon toolkit for probabilistic time series modeling, focusing on deep learning-based models."<br/>
+GitHub repository [here](https://github.com/awslabs/gluon-ts){:target="_blank"}.
 * [pmdarima](https://alkaline-ml.com/pmdarima/){:target="_blank"} by Taylor G Smith: "pmdarima brings R’s beloved auto.arima to Python, making an even stronger case for why you don’t need R for data science. pmdarima is 100% Python + Cython and does not leverage any R code, and implements a single, easy-to-use scikit-learn-esque estimator."<br/>
 GitHub repository [here](https://github.com/alkaline-ml/pmdarima){:target="_blank"}.
 * [Prophet](https://facebook.github.io/prophet/){:target="_blank"} by Facebook: "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth."<br/>
@@ -84,7 +88,13 @@ GitHub repository [here](https://github.com/jdb78/pytorch-forecasting){:target="
 GitHub repository [here](https://github.com/johannfaouzi/pyts){:target="_blank"}.
 * [ruptures](https://centre-borelli.github.io/ruptures-docs/){:target="_blank"} by Charles Truong, Laurent Oudre and Nicolas Vayatis: "ruptures is designed to perform offline change point algorithms within the Python language."<br/>
 GitHub repository [here](https://github.com/deepcharles/ruptures){:target="_blank"}.
+* [sktime](https://www.sktime.org/en/latest/#){:target="_blank"} by The Alan Turing Institute: "sktime is a Python machine learning toolbox for time series with a unified interface for multiple learning tasks. We currently support: Forecasting, Time series classification, and Time series regression.
+sktime provides dedicated time series algorithms and scikit-learn compatible tools for building, tuning, and evaluating composite models.
+For deep learning methods, see our companion package: [sktime-dl](https://github.com/sktime/sktime-dl){:target="_blank"}."<br/>
+GitHub repository [here](https://github.com/alan-turing-institute/sktime){:target="_blank"}.
 * [statsmodels](https://github.com/statsmodels/statsmodels){:target="_blank"} by Skipper Seabold and Josef Perktold: "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator."<br/>
 GitHub repository [here](https://github.com/statsmodels/statsmodels){:target="_blank"}.
+* [tsfresh](https://tsfresh.readthedocs.io/en/latest/){:target="_blank"} by Blue Yonder: TSFRESH stands for "Time Series Feature extraction based on scalable hypothesis tests". "The package contains many feature extraction methods and a robust feature selection algorithm."<br/>
+GitHub repository [here](https://github.com/blue-yonder/tsfresh){:target="_blank"}.
 * [tslearn](https://tslearn.readthedocs.io/en/stable/){:target="_blank"} by Romain Tavenard: "tslearn is a Python package that provides machine learning tools for the analysis of time series. This package builds on (and hence depends on) scikit-learn, numpy and scipy libraries."<br/>
 GitHub repository [here](https://github.com/tslearn-team/tslearn){:target="_blank"}.
