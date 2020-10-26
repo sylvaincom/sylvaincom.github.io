@@ -92,7 +92,7 @@ GitHub repository [here](https://github.com/deepcharles/ruptures){:target="_blan
 sktime provides dedicated time series algorithms and scikit-learn compatible tools for building, tuning, and evaluating composite models.
 For deep learning methods, see our companion package: [sktime-dl](https://github.com/sktime/sktime-dl){:target="_blank"}."<br/>
 GitHub repository [here](https://github.com/alan-turing-institute/sktime){:target="_blank"}.
-* [statsmodels](https://github.com/statsmodels/statsmodels){:target="_blank"} by Skipper Seabold and Josef Perktold: "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator."<br/>
+* [statsmodels](https://www.statsmodels.org/devel/){:target="_blank"} by Skipper Seabold and Josef Perktold: "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator."<br/>
 GitHub repository [here](https://github.com/statsmodels/statsmodels){:target="_blank"}.
 * [tsfresh](https://tsfresh.readthedocs.io/en/latest/){:target="_blank"} by Blue Yonder: TSFRESH stands for "Time Series Feature extraction based on scalable hypothesis tests". "The package contains many feature extraction methods and a robust feature selection algorithm."<br/>
 GitHub repository [here](https://github.com/blue-yonder/tsfresh){:target="_blank"}.
