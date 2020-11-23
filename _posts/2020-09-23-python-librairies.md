@@ -73,7 +73,7 @@ Links: [GitHub](https://github.com/slundberg/shap){:target="_blank"}.
 <a name='ts'></a>
 #### For time series
 
-I highly suggest having a look at [Time Series Forecasting Best Practices & Examples](https://microsoft.github.io/forecasting/){:target="_blank"} by Microsoft and [Time series related software](https://github.com/alan-turing-institute/sktime/wiki/related-software){:target="_blank"} by The Alan Turing Institute (which is inspired from [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/README.md){:target="_blank"}).
+I highly suggest having a look at [Time Series Forecasting Best Practices & Examples](https://microsoft.github.io/forecasting/){:target="_blank"} by Microsoft and [Time series related software](https://www.sktime.org/en/latest/related_software.html){:target="_blank"} by The Alan Turing Institute (which is inspired from [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/README.md){:target="_blank"}).
 
 * [Anomaly Detection Toolkit (ADTK)](https://adtk.readthedocs.io/en/stable/){:target="_blank"} by Arundo Analytics: "Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection."<br/>
 Links: [GitHub](https://github.com/arundo/adtk){:target="_blank"}.
