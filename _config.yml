@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sylvain W. Combettes"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sylvain W. Combettes"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sylvain-combettes/"
+  linkedin         : "sylvain-combettes"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
