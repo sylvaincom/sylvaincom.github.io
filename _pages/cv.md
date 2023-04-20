@@ -15,6 +15,9 @@ Education
   * Mathematics / Data Science applied to time series, at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en).
   * Topic: Symbolic representation for physiological signals.
   * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/).
+  * Co-organizer of the _Machine Learning and Massive Data Analysis (MLMDA)_ weekly seminars.
+  * Supervision of a research internship for a normalien student from the Mathematics Department (Mar. - June 2022).
+  * Tutor of students from the Master 2 MVA (2020-21).
 * [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), *Master of Science*, Nancy, 2017 &ndash; 2020
   * Big Data & Data Science track within the Department of Mathematical Engineering.
   * Top of the class in the final-year. Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements
