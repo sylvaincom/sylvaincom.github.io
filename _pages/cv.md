@@ -28,7 +28,7 @@ Education
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -40,9 +40,17 @@ Professional experience
   * Technologies: AWS, Dask, Docker, Git, Pandas, Prophet, Unix, scikit-learn, statsmodels, tslearn.
   * Result: The method developed for a specific country, in pairs with a Senior Data Scientist, was a success and was being deployed in other countries at the end of my internship.
   * Links: [Medium blog](https://medium.com/artefact-engineering-and-data-science/how-did-we-predict-sales-for-products-with-almost-no-historical-data-launches-d116e37eec44).
+* *Research Project in Data Science*, [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), Nancy, Oct. 2019 &ndash; Feb. 2020 (5 months).
+  * Topic: Comparison of empirical probability distributions using integral probability metrics and f-divergences.
+  * Result: I show that a new simulation method for the Choquet integral is "correct".
+  * Links: [report](https://sylvaincom.github.io/files/comparison_distributions_report.pdf) / [slides](https://sylvaincom.github.io/files/comparison_distributions_slides.pdf) / [GitHub](https://github.com/sylvaincom/comparison-distributions).
 * *Data Scientist intern*, [Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier), Paris Area, June 2019 &ndash; Sep. 2019 (3 months).
-  * Generating fictitious realistic patient data with generative adversarial networks (GANs).
-  * Links: [Medium blog](https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3).
+  * Topic: Generating fictitious realistic patient data with generative adversarial networks (GANs).
+  * Links: [report](https://sylvaincom.github.io/files/medgan_report.pdf) / [slides](https://sylvaincom.github.io/files/medgan_slides.pdf) / [GitHub](https://github.com/sylvaincom/comparison-distributions) / [Medium blog](https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3).
+* *Research Project in Data Science*, [Saint-Gobain](https://en.wikipedia.org/wiki/Saint-Gobain), Paris Area, Oct. 2018 &ndash; June 2019 (9 months).
+  * Topic: Anomaly detection using principal component analysis (PCA) and Gaussian kernel PCA.
+  * Result: the algorithm can detect 100% of the failure days observed by operators from Saint-Gobain.
+  * Links: [GitHub](https://github.com/sylvaincom/anomaly-detection-PCA).
 
 Publications
 ======
