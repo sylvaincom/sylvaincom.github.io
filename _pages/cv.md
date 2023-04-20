@@ -19,8 +19,8 @@ Education
     * Co-organizer of the _Machine Learning and Massive Data Analysis (MLMDA)_ weekly seminars with external or internal speakers.
     * Supervision of a research internship for a normalien student from the Mathematics Department (Mar. - June 2022).
     * PhD student representative at the [Graduate School of Mathematics of University Paris-Saclay](https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-mathematiques/about-us-graduate-school-mathematics) board (2020-2022).
-    * PhD student representative at the [Ecole Doctorale de Mathématique Hadamard (EDMH)](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics) board (2020-2021).
-    * Tutor of students from the Master 2 MVA (2020-21).
+    * PhD student representative at the [EDMH (Ecole Doctorale de Mathématique Hadamard)](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics) board (2020-2021).
+    * Tutor of students from the Master 2 [MVA (Mathématiques, Vision, Apprentissage)](https://www.master-mva.com/) (2020-21).
 * [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), *Master of Science*, Nancy, 2017 &ndash; 2020
   * Big Data & Data Science track within the Department of Mathematical Engineering.
   * Top of the class in the final-year. Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements
