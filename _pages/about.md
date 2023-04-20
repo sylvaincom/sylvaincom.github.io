@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Sylvain Combettes' webpage!"
+title: "Welcome to Sylvain W. Combettes' webpage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<b><i>This website is under construction!</i></b>
+<b><i>This website is under construction! (Apr 20th 2023)</i></b>
 
 I am third-year PhD student at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en){:target="_blank"} research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en){:target="_blank"}. I am advised by [Laurent Oudre](http://www.laurentoudre.fr){:target="_blank"} and [Charles Truong](https://charles.doffy.net/){:target="_blank"}.
 
