@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, 2020 &ndash; 2023
-  * Mathematics / Data Science applied to time series, at the Centre Borelli.
+  * Mathematics / Data Science applied to time series, at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en).
   * Topic: Symbolic representation for physiological signals.
-  * Advisors: Laurent Oudre and Charles Truong.
+  * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/).
 * [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), *Master of Science*, Nancy, 2017 &ndash; 2020
   * Big Data & Data Science track within the Department of Mathematical Engineering.
   * Top of the class in the final-year. Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements
