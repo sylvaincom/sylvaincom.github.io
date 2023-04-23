@@ -23,7 +23,7 @@ Education
     * Tutor of students from the Master 2 [MVA (Mathématiques, Vision, Apprentissage)](https://www.master-mva.com/) (2020-2021).
 * [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), *Master of Science*, Nancy, 2017 &ndash; 2020
   * Big Data & Data Science track within the Department of Mathematical Engineering.
-  * Top of the class in the final-year. Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements
+  * Top of the class in the final-year. Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements.
   * Relevant courses in Mathematics: Deep learning, Information theory, Machine learning, Operations research, Optimization, Probabilities, Statistics, Stochastic modelling, Time series.
   * Programming: Python, R, MATLAB, C/C++.
 * [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand), _Classe Préparatoire aux Grandes Écoles_, Paris, 2014 &ndash; 2017
