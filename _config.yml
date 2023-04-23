@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sylvain W. Combettes"
   avatar           : "profile.png"
-  bio              : "PhD student working on time series"
+  bio              : "PhD student working on machine learning for time series"
   location         : "Paris, France"
   employer         : # "Centre Borelli, ENS Paris-Saclay"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
