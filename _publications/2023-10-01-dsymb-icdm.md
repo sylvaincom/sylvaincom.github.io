@@ -1,11 +1,11 @@
 ---
 title: "An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals."
-collection: International conference paper
+collection: publications
 permalink: /publication/2023-10-01-dsymb-icdm
 excerpt: 'd_symb symbolic representation and distance measure for multivariate time series.'
 date: 2023-10-01
-venue: 'preprint'
-paperurl: 'http://www.ipol.im/pub/pre/494/'
+venue: 'Proceedings of the International Conference on Data Mining (AI4TS Workshop)'
+paperurl: 'http://www.laurentoudre.fr/publis/ICDM2023.pdf'
 citation: 'Sylvain W. Combettes, Charles Truong, and Laurent Oudre. "An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals." In _Proceedings of the International Conference on Data Mining (AI4TS Workshop)_, Shanghai, China, 2023.
 ---
 
