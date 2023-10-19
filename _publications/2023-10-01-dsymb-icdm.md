@@ -1,6 +1,6 @@
 ---
 title: "An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals."
-collection: publications
+collection: preprint
 permalink: /publication/2023-10-01-dsymb-icdm
 excerpt: 'd_symb symbolic representation and distance measure for multivariate time series.'
 date: 2023-10-01
