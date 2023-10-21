@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am final-year PhD student at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en). I am advised by [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
+I am a final-year PhD student at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en). I am advised by [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
 
 I am focusing on symbolic representation for time series. Research interests: Representation learning, Symbolic approaches, Change-point detection, Pattern recognition.
 
