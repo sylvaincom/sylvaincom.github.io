@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, 2020 &ndash; 2023
-  * Mathematics / Data Science applied to time series, at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en).
-  * Topic: Symbolic representation for physiological signals.
-  * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/).
+* [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, October 2020 &ndash; January 2024
+  * Mathematics / Data Science applied to time series. Topic: Symbolic representation for time series.
+  * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/), [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en).
+  * PhD successfully defended on January 8th, 2024. Committee: [Germain Forestier](https://germain-forestier.info/) (rapporteur), [Romain Tavenard](https://rtavenar.github.io/research/bio.html) (rapporteur), [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/) (examinatrice), [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) (examinateur), [Patrick Schäfer](https://www2.informatik.hu-berlin.de/~schaefpa/) (examinateur), [Laurent Oudre](http://www.laurentoudre.fr/) (advisor), [Charles Truong](https://charles.doffy.net/) (advisor).
   * Extra activities:
-    * Co-organizer of the _Machine Learning and Massive Data Analysis (MLMDA)_ weekly seminars with external or internal speakers.
+    * Co-organizer of the _Machine Learning and Massive Data Analysis (MLMDA)_ weekly seminars with external or internal speakers in 2022/2023.
     * Supervision of a research internship for a normalien student from the Mathematics Department (Mar. - June 2022).
-    * PhD student representative at the [Graduate School of Mathematics of University Paris-Saclay](https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-mathematiques/about-us-graduate-school-mathematics) board (2020-2022).
-    * PhD student representative at the [EDMH (Ecole Doctorale de Mathématique Hadamard)](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics) board (2020-2021).
-    * Tutor of students from the Master 2 [MVA (Mathématiques, Vision, Apprentissage)](https://www.master-mva.com/) (2020-2021).
 * [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), *Master of Science*, Nancy, 2017 &ndash; 2020
   * Big Data & Data Science track within the Department of Mathematical Engineering.
-  * Top of the class in the final-year. Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements.
-  * Relevant courses in Mathematics: Deep learning, Information theory, Machine learning, Operations research, Optimization, Probabilities, Statistics, Stochastic modelling, Time series.
-  * Programming: Python, R, MATLAB, C/C++.
+  * Awarded the Saint-Gobain Research Excellence Scholarship 2020 for academic achievements.
 * [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand), _Classe Préparatoire aux Grandes Écoles_, Paris, 2014 &ndash; 2017
   * Intensive preparation for the highly selective entrance examination to the _Grandes Écoles_ (leading national French schools of Engineering).
   * _Filière PCSI/PC*_: Advanced Mathematics, Physics, Chemistry, Philosophy and English.
