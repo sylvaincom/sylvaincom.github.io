@@ -3,7 +3,7 @@ title: "$d_{symb}$ playground: an interactive tool to explore large multivariate
 collection: preprint
 permalink: /publication/2023-12-18-dsymb-icdm
 excerpt: '$d_{symb}$ playground: Streamlit application for using $d_{symb}$.'
-date: 2023-10-01
+date: 2024-05-16
 venue: 'Proceedings of the International Conference on Data Engineering (ICDE) (to appear)'
 paperurl: 
 citation: 'S. W. Combettes, P. Boniol, C. Truong, and L. Oudre. "d_{symb} playground: an interactive tool to explore large multivariate time series datasets." In Proceedings of the International Conference on Data Engineering (ICDE) (to appear), Utrecht, Netherlands, 2024.'
