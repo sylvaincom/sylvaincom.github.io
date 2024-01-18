@@ -4,9 +4,9 @@ collection: preprint
 permalink: /publication/2023-12-01-dsymb-icdm
 excerpt: '$d_{symb}$: symbolic representation and distance measure for multivariate time series.'
 date: 2023-12-01
-venue: 'Proceedings of the International Conference on Data Mining (AI4TS Workshop) (to appear)'
+venue: 'Proceedings of the Proceedings of the International Conference on Data Mining Workshops (ICDMW) (to appear)'
 paperurl: 'http://www.laurentoudre.fr/publis/ICDM2023.pdf'
-citation: 'S. W. Combettes, C. Truong, and L. Oudre. An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals. In Proceedings of the International Conference on Data Mining (AI4TS Workshop) (to appear), Shanghai, China, 2023.'
+citation: 'S. W. Combettes, C. Truong, and L. Oudre. An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals. In Proceedings of the Proceedings of the International Conference on Data Mining Workshops (ICDMW) (to appear), Shanghai, China, 2023.'
 ---
 
 Links: [paper](http://www.laurentoudre.fr/publications.html) / [code](https://github.com/sylvaincom/d-symb)
