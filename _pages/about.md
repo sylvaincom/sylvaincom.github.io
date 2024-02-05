@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since Fabruary 2024, I am a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en), under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
+Since February 2024, I am a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en), under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
 I am working on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/saclai-school), a "learning-by-doing" pedagogical platform for AI acculturation.
 Previsouly, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of Laurent Oudre and [Charles Truong](https://charles.doffy.net/).
 More precisely, I worked on symbolic representation for time series, as well as distance measures on them.
