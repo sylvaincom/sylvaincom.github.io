@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sylvain W. Combettes"
   avatar           : "profile.png"
-  bio              : "PhD student working on machine learning for time series"
+  bio              : "Postdoc working on machine learning for time series"
   location         : "Paris, France"
   employer         : # "Centre Borelli, ENS Paris-Saclay"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=yXz3FG8AAAAJ&hl=fr&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=yXz3FG8AAAAJ"
   email            : # "{firstname.lastname}@ens-paris-saclay.fr"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
