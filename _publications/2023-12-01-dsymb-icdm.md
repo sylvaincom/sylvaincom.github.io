@@ -2,7 +2,7 @@
 title: "An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals"
 collection: preprint
 permalink: /publication/2023-12-01-dsymb-icdm
-excerpt: '$d_{symb}$: symbolic representation and distance measure for multivariate time series.'
+excerpt: '$d_{symb}$: data-driven symbolic representation and distance measure for multivariate time series.'
 date: 2023-12-01
 venue: 'Proceedings of the Proceedings of the International Conference on Data Mining Workshops (ICDMW)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10411636'
