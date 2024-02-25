@@ -10,7 +10,6 @@ citation: 'S. W. Combettes, C. Truong and L. Oudre, "An Interpretable Distance M
 ---
 
 Links: [paper](https://ieeexplore.ieee.org/abstract/document/10411636) / [PDF](http://www.laurentoudre.fr/publis/ICDM2023.pdf) / [code](https://github.com/sylvaincom/d-symb).
-
 Accepted at the [ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html), [AI4TS workshop](https://ai4ts.github.io/icdm2023).
 
 Abstract:
