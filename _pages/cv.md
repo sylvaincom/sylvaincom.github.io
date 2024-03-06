@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, October 2020 &ndash; January 2024
-  * Mathematics / Data Science applied to time series. Topic: [Symbolic representation for time series](https://www.theses.fr/s257793).
-  * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/), [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en).
-  * PhD successfully defended on January 8th, 2024. Committee: [Germain Forestier](https://germain-forestier.info/) (rapporteur), [Romain Tavenard](https://rtavenar.github.io/research/bio.html) (rapporteur), [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/) (examinatrice), [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) (examinateur), [Patrick Schäfer](https://www2.informatik.hu-berlin.de/~schaefpa/) (examinateur), [Laurent Oudre](http://www.laurentoudre.fr/) (advisor), [Charles Truong](https://charles.doffy.net/) (advisor).
+* [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, Oct. 2020 &ndash; Jan. 2024
+  * Mathematics / Data Science applied to time series. Topic: [Symbolic representations for time series](https://www.theses.fr/s257793).
+  * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/), [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) (Université Paris-Saclay, CNRS, ENS Paris-Saclay).
+  * PhD successfully defended on January 8th, 2024. Committee: [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/) (Présidente), [Germain Forestier](https://germain-forestier.info/) (Rapporteur & Examinateur), [Romain Tavenard](https://rtavenar.github.io/research/bio.html) (Rapporteur & Examinateur), [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/) (examinateur), and [Patrick Schäfer](https://www2.informatik.hu-berlin.de/~schaefpa/) (Examinateur).
   * Extra activities:
     * Co-organizer of the _Machine Learning and Massive Data Analysis (MLMDA)_ weekly seminars with external or internal speakers in 2022/2023.
     * Supervision of a research internship for a normalien student from the Mathematics Department (Mar. - June 2022).
