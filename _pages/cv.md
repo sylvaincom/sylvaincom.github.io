@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
+
 Education
 ======
 * [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, Oct. 2020 &ndash; Jan. 2024
