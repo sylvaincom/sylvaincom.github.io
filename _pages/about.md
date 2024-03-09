@@ -13,6 +13,6 @@ I am working on the BrevetAI project from [SaclAI School](https://www.dataia.eu/
 
 Previously, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of Laurent Oudre and [Charles Truong](https://charles.doffy.net/).
 More precisely, I worked on symbolic representation for time series, as well as distance measures on them.
-I successfully defended my PhD on January 8th 2024.
+I successfully defended my PhD on January 8th, 2024.
 
 Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
