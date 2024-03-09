@@ -15,4 +15,4 @@ Previously, I was a PhD student, also at the Centre Borelli, where I worked on m
 More precisely, I worked on symbolic representation for time series, as well as distance measures on them.
 I successfully defended my PhD on January 8th 2024.
 
-Contact: <i>sylvain.combettes [a t] ens-paris-saclay.fr</i>.
+Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
