@@ -29,11 +29,11 @@ Education
 * [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand), _Baccalauréat général avec la mention très bien_, Paris, 2011 &ndash; 2014
   * At the end of high school, I received the _Baccalauréat_ (main French diploma required to pursue university studies) in Science with Highest Honors.
 
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Professional experience
 ======
@@ -55,14 +55,14 @@ Professional experience
   * Result: the algorithm can detect 100% of the failure days observed by operators from Saint-Gobain.
   * Links: [GitHub](https://github.com/sylvaincom/anomaly-detection-PCA).
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
