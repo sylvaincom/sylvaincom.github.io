@@ -15,7 +15,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
 <table>
   <tr>
-    <td rowspan="2" style="width: 100px;">Feb. 2024 – <i>present</i></td>
+    <td rowspan="2" style="width: 100px;">Feb. 2024 &ndash; <i>present</i></td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay"><b>École Normale Supérieure Paris-Saclay</b></a></td>
     <td><i>Postdoctoral researcher</i></td>
     <td>Paris area, France</td>
@@ -30,7 +30,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">Mar. – Aug. 2020 (6 months)</td>
+    <td rowspan="2">Mar. &ndash; Aug. 2020 (6 months)</td>
     <td><a href="https://www.artefact.com/"><b>Artefact</b></a></td>
     <td><i>Data Scientist intern</i></td>
     <td>Paris, France</td>
@@ -47,7 +47,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">June - Sep. 2019 (3 months)</td>
+    <td rowspan="2">June &ndash; Sep. 2019 (3 months)</td>
     <td><a href="https://en.wikipedia.org/wiki/Laboratoires_Servier"><b>Servier</b></a></td>
     <td><i>Data Scientist intern</i></td>
     <td>Paris area, France</td>
@@ -68,7 +68,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
 <table>
   <tr>
-    <td rowspan="2">Oct. 2020 – Jan. 2024</td>
+    <td rowspan="2">Oct. 2020 &ndash; Jan. 2024</td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay"><b>École Normale Supérieure Paris-Saclay</b></a></td>
     <td><i>Doctor of Philosophy (PhD)</i></td>
     <td>Paris area, France</td>
@@ -89,7 +89,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">2017 – 2020</td>
+    <td rowspan="2">2017 &ndash; 2020</td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy"><b>École des Mines de Nancy</b></a></td>
     <td><i>Master of Science</i></td>
     <td>Nancy, France</td>
@@ -103,7 +103,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">2014 – 2017</td>
+    <td rowspan="2">2014 &ndash; 2017</td>
     <td><a href="https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand"><b>Lycée Louis-le-Grand</b></a></td>
     <td><i>Classe Préparatoire aux Grandes Écoles</i></td>
     <td>Paris, France</td>
@@ -117,7 +117,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">2011 – 2014</td>
+    <td rowspan="2">2011 &ndash; 2014</td>
     <td><a href="https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand"><b>Lycée Louis-le-Grand</b></a></td>
     <td><i>Baccalauréat général avec la mention très bien</i></td>
     <td>Paris, France</td>
@@ -135,7 +135,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
 <table>
   <tr>
-    <td rowspan="2" style="width: 100px;">Oct. 2019 - Feb. 2020 (5 months)</td>
+    <td rowspan="2" style="width: 100px;">Oct. 2019 &ndash; Feb. 2020 (5 months)</td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy"><b>École des Mines de Nancy</b></a></td>
     <td><i>Research project in Data Science</i></td>
     <td>Nancy, France</td>
@@ -150,7 +150,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">Oct. 2018 – June 2019 (9 months)</td>
+    <td rowspan="2">Oct. 2018 &ndash; June 2019 (9 months)</td>
     <td><a href="https://en.wikipedia.org/wiki/Saint-Gobain"><b>Saint-Gobain</b></a></td>
     <td><i>Research project in Data Science</i></td>
     <td>Paris area, France</td>
