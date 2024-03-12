@@ -15,7 +15,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
 <table>
   <tr>
-    <td rowspan="2" style="width: 100px;">Feb. 2024 – <i>present</i> (2 months)</td>
+    <td rowspan="2" style="width: 100px;">Feb. 2024 – <i>present</i></td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay"><b>École Normale Supérieure Paris-Saclay</b></a></td>
     <td><i>Postdoctoral researcher</i></td>
     <td>Paris area, France</td>
@@ -30,7 +30,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">Mar. 2020 – Aug. 2020 (6 months)</td>
+    <td rowspan="2">Mar. – Aug. 2020 (6 months)</td>
     <td><a href="https://www.artefact.com/"><b>Artefact</b></a></td>
     <td><i>Data Scientist intern</i></td>
     <td>Paris, France</td>
@@ -47,7 +47,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2">June 2019 - Sep. 2019 (3 months)</td>
+    <td rowspan="2">June - Sep. 2019 (3 months)</td>
     <td><a href="https://en.wikipedia.org/wiki/Laboratoires_Servier"><b>Servier</b></a></td>
     <td><i>Data Scientist intern</i></td>
     <td>Paris area, France</td>
