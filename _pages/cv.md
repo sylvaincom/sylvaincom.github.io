@@ -11,6 +11,60 @@ redirect_from:
 
 Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
+Professional experience
+======
+
+<table>
+  <tr>
+    <td rowspan="2" style="width: 100px;">Feb. 2024 – <i>present</i></td>
+    <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay"><b>École Normale Supérieure Paris-Saclay</b></a></td>
+    <td><i>Postdoctoral researcher</i></td>
+    <td>Paris area, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>I am a postdoctoral researcher at the <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> research lab under the supervision of <a href="http://www.laurentoudre.fr/">Laurent Oudre</a>.</li>
+        <li>Pedagogical engineer and product manager for the BrevetAI of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a>, an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay.</li>
+        <li>The team consists of 10 members, including pedagogical engineers, developers, UX/UI designers, etc.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 100px;">Mar. 2020 – Aug. 2020 (6 months)</td>
+    <td><a href="https://www.artefact.com/"><b>Artefact</b></a></td>
+    <td><i>Data Scientist intern</i></td>
+    <td>Paris, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>Consulting for a major player in the food industry: demand sensing for new products with very few historical sales data ("cold start").</li>
+        <li>Involved throughout the whole pipeline in agile development: exploratory data analysis, model iteration, production, industrialisation, and delivery.</li>
+        <li>Technologies: AWS, Dask, Docker, Git, Pandas, Prophet, Unix, scikit-learn, statsmodels, tslearn.</li>
+        <li>Result: The method developed for a specific country, in pairs with a Senior Data Scientist, was a success and was being deployed in other countries at the end of my internship.</li>
+        <li>Links: <a href="https://medium.com/artefact-engineering-and-data-science/how-did-we-predict-sales-for-products-with-almost-no-historical-data-launches-d116e37eec44">Medium blog</a>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 100px;">June 2019 - Sep. 2019 (3 months)</td>
+    <td><a href="https://en.wikipedia.org/wiki/Laboratoires_Servier"><b>Servier</b></a></td>
+    <td><i>Data Scientist intern</i></td>
+    <td>Paris area, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>Topic: Generating fictitious realistic patient data with generative adversarial networks (GANs).</li>
+        <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
+        <li>Links: <a href="https://sylvaincom.github.io/files/medgan_report.pdf">report</a>, <a href="https://sylvaincom.github.io/files/medgan_slides.pdf">slides</a>, <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>, <a href="https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3">Medium blog</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 Education
 ======
 
@@ -79,6 +133,42 @@ Education
   </tr>
 </table>
 
+Past projects
+======
+
+<table>
+  <tr>
+    <td rowspan="2" style="width: 100px;">Oct. 2019 - Feb. 2020 (5 months)</td>
+    <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy"><b>École des Mines de Nancy</b></a></td>
+    <td><i>Research project in Data Science</i></td>
+    <td>Nancy, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>Topic: Comparison of empirical probability distributions using integral probability metrics and $f$-divergences.</li>
+        <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
+        <li>Links: <a href="https://sylvaincom.github.io/files/comparison_distributions_report.pdf">report</a>, <a href="https://sylvaincom.github.io/files/comparison_distributions_slides.pdf">slides</a>,  <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 100px;">Oct. 2018 – June 2019 (9 months)</td>
+    <td><a href="https://en.wikipedia.org/wiki/Saint-Gobain"><b>Saint-Gobain</b></a></td>
+    <td><i>Research project in Data Science</i></td>
+    <td>Paris area, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>Topic: Anomaly detection using principal component analysis (PCA) and Gaussian kernel PCA.</li>
+        <li>Result: the algorithm can detect 100% of the failure days observed by operators from Saint-Gobain.</li>
+        <li>Links: <a href="https://github.com/sylvaincom/anomaly-detection-PCA">GitHub</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <!-- * [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), *Doctor of Philosophy - PhD*, Paris Area, Oct. 2020 &ndash; Jan. 2024
   * Mathematics / Data Science applied to time series. Thesis title: [Symbolic representations of time series](https://www.theses.fr/s257793).
   * Advisors: [Laurent Oudre](http://www.laurentoudre.fr/) and [Charles Truong](https://charles.doffy.net/), [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) (Université Paris-Saclay, CNRS, ENS Paris-Saclay).
@@ -100,74 +190,6 @@ Education
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-
-Professional experience
-======
-
-<table>
-  <tr>
-    <td rowspan="2" style="width: 100px;">Mar. 2020 – Aug. 2020 (6 months)</td>
-    <td><a href="https://www.artefact.com/"><b>Artefact</b></a></td>
-    <td><i>Data Scientist intern</i></td>
-    <td>Paris, France</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <ul>
-        <li>Consulting for a major player in the food industry: demand sensing for new products with very few historical sales data ("cold start").</li>
-        <li>Involved throughout the whole pipeline in agile development: exploratory data analysis, model iteration, production, industrialisation, and delivery.</li>
-        <li>Technologies: AWS, Dask, Docker, Git, Pandas, Prophet, Unix, scikit-learn, statsmodels, tslearn.</li>
-        <li>Result: The method developed for a specific country, in pairs with a Senior Data Scientist, was a success and was being deployed in other countries at the end of my internship.</li>
-        <li>Links: <a href="https://medium.com/artefact-engineering-and-data-science/how-did-we-predict-sales-for-products-with-almost-no-historical-data-launches-d116e37eec44">Medium blog</a>.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="width: 100px;">Oct. 2019 - Feb. 2020 (5 months)</td>
-    <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy"><b>École des Mines de Nancy</b></a></td>
-    <td><i>Research Project in Data Science</i></td>
-    <td>Nancy, France</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <ul>
-        <li>Topic: Comparison of empirical probability distributions using integral probability metrics and $f$-divergences.</li>
-        <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
-        <li>Links: <a href="https://sylvaincom.github.io/files/comparison_distributions_report.pdf">report</a>, <a href="https://sylvaincom.github.io/files/comparison_distributions_slides.pdf">slides</a>,  <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="width: 100px;">June 2019 - Sep. 2019 (3 months)</td>
-    <td><a href="https://en.wikipedia.org/wiki/Laboratoires_Servier"><b>Servier</b></a></td>
-    <td><i>Data Scientist intern</i></td>
-    <td>Paris area, France</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <ul>
-        <li>Topic: Generating fictitious realistic patient data with generative adversarial networks (GANs).</li>
-        <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
-        <li>Links: <a href="https://sylvaincom.github.io/files/medgan_report.pdf">report</a>, <a href="https://sylvaincom.github.io/files/medgan_slides.pdf">slides</a>, <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>, <a href="https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3">Medium blog</a>.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="width: 100px;">Oct. 2018 – June 2019 (9 months)</td>
-    <td><a href="https://en.wikipedia.org/wiki/Saint-Gobain"><b>Saint-Gobain</b></a></td>
-    <td><i>Research Project in Data Science</i></td>
-    <td>Paris area, France</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <ul>
-        <li>Topic: Anomaly detection using principal component analysis (PCA) and Gaussian kernel PCA.</li>
-        <li>Result: the algorithm can detect 100% of the failure days observed by operators from Saint-Gobain.</li>
-        <li>Links: <a href="https://github.com/sylvaincom/anomaly-detection-PCA">GitHub</a>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <!-- * *Data Scientist intern*, [Artefact](https://www.artefact.com), Paris, Mar. 2020 &ndash; Aug. 2020 (6 months).
   * Consulting for a major player in the food industry: demand sensing for new products with very few historical sales data (« cold start »).
