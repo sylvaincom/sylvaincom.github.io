@@ -7,8 +7,60 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=yXz3FG8AAAAJ">my Google Scholar profile</a>.
 
+## International conference papers
+
+1. S. W. Combettes, P. Boniol, C. Truong, and L. Oudre. "d_{symb} playground: an interactive tool to explore large multivariate time series datasets." In <i>Proceedings of the International Conference on Data Engineering (ICDE)</i>, Utrecht, Netherlands, 2024. [<a href="https://icde2024.github.io/demos.html">website</a> / <a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">PDF</a> / <a href="https://github.com/boniolp/dsymb-playground">GitHub</a> / <a href="https://dsymb-playground.streamlit.app/">Streamlit app</a> / <a href="https://youtu.be/4verma-Aqo8">4 min YouTube video</a>]
+2. S. W. Combettes, C. Truong, and L. Oudre. "An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals." In <i>Proceedings of the International Conference on Data Mining Workshops (ICDMW)</i>, Shanghai, China, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10411636">website</a> / <a href="http://www.laurentoudre.fr/publis/ICDM2023.pdf">PDF</a> / <a href="https://github.com/sylvaincom/d-symb">GitHub</a> / <a href="https://www.cloud-conf.net/icdm2023/index.html">ICDM 2023</a> / <a href="https://ai4ts.github.io/icdm2023">AI4TS workshop</a>]
+
+## Journal papers
+
+1. S. W. Combettes, P. Boniol, A. Mazarguil, D. Wang, D. Vaquero-Ramos, M. Chauveau, L. Oudre, N. Vayatis, P.-P. Vidal, A. Roren, and M.-M. Lefèvre-Colau. "Arm-CODA: A Data Set of Upper-limb Human Movement During Routine Examination." <i>Image Processing On Line</i>, 14:1-13, 2024. [<a href="https://www.ipol.im/pub/art/2024/494/">website</a> / <a href="https://www.ipol.im/pub/art/2024/494/article.pdf">PDF</a> / <a href="https://ipolcore.ipol.im/demo/clientApp/demo.html?id=494">demo</a>]
+
+## Preprints
+
+1. S. W. Combettes, C. Truong, and L. Oudre. "ASTRIDE: Adaptive Symbolization for Time Series Databases." <i>arXiv</i>, abs/2302.04097, 2023. [<a href="https://arxiv.org/abs/2302.04097">website</a> / <a href="https://arxiv.org/pdf/2302.04097.pdf">PDF</a> / <a href="https://github.com/sylvaincom/astride">GitHub</a>]
+
+<!-- <table>
+  <tr>
+    <th>Year</th>
+    <th>Authors</th>
+    <th>Title</th>
+    <th>Conference / journal</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>S. W. Combettes, P. Boniol, C. Truong, and L. Oudre</td>
+    <td>$d_{symb}$ playground: an interactive tool to explore large multivariate time series datasets</td>
+    <td>Proceedings of the International Conference on Data Engineering (ICDE)</td>
+    <td>accepted</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>S. W. Combettes, C. Truong, and L. Oudre</td>
+    <td>Arm-CODA: A Dataset of Upper-limb Human Movement during Routine Examination</td>
+    <td>Image Processing On Line</td>
+    <td>published</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>S. W. Combettes, C. Truong, and L. Oudre</td>
+    <td>An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals</td>
+    <td>Proceedings of the Proceedings of the International Conference on Data Mining Workshops (ICDMW)</td>
+    <td>published</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>S. W. Combettes, C. Truong, and L. Oudre</td>
+    <td>ASTRIDE: Adaptive Symbolization for Time Series Databases </td>
+    <td>arXiv</td>
+    <td>preprint</td>
+  </tr>
+</table> -->
+
+
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
