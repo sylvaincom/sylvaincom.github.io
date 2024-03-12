@@ -89,7 +89,7 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
     </td>
   </tr>
   <tr>
-    <td rowspan="2" style="width: 100px;">2017 &ndash; 2020</td>
+    <td rowspan="2" style="width: 105px;">2017 &ndash; 2020</td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy"><b>École des Mines de Nancy</b></a></td>
     <td><i>Master of Science</i></td>
     <td>Nancy, France</td>
