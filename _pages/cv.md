@@ -11,6 +11,8 @@ redirect_from:
 
 Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
+You can also look into my <a href="/publications">publications</a>, my <a href="/talks">talks</a>, and my <a href="/teaching">teaching experience</a> in their according tabs.
+
 <h2>Professional experience</h2>
 
 <table>
