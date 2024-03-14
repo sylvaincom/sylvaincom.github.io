@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Sylvain W. Combettes' webpage!"
-excerpt: "About me"
+excerpt: "Machine learning"
 author_profile: true
 redirect_from:
   - /about/
