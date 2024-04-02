@@ -20,4 +20,4 @@ Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 ## News
 - **[April 16th, 2024]** I will be presenting the [$d_{symb}$ playground](https://github.com/boniolp/dsymb-playground) at the MLMDA seminar of ENS Paris-Saclay, France! Send me an email if you would like to attend physically or remotely.
 - [February 1st, 2024] I started a postdoc at ENS Paris-Saclay, France!
-- [January 8th, 2024] I successfully defend my PhD from ENS Paris-Saclay, France!
+- [January 8th, 2024] I successfully defended my PhD from ENS Paris-Saclay, France!
