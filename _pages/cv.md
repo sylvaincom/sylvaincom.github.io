@@ -147,7 +147,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
       <ul>
         <li>Topic: Comparison of empirical probability distributions using integral probability metrics and $f$-divergences.</li>
         <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
-        <li>Links: <a href="https://sylvaincom.github.io/files/comparison_distributions_report.pdf">report</a>, <a href="https://sylvaincom.github.io/files/comparison_distributions_slides.pdf">slides</a>,  <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>.</li>
+        <li>Links: <a href="/files/comparison_distributions_report.pdf">report</a>, <a href="/files/comparison_distributions_slides.pdf">slides</a>,  <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>.</li>
       </ul>
     </td>
   </tr>
