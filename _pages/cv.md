@@ -78,7 +78,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td colspan="3">
       <ul>
-        <li>Mathematics / Data Science applied to time series. Thesis title: Symbolic representations of time series [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a> / <a href="/files/2024_01_08_phd_defense.pdf">defense slides PDF</a>].</li>
+        <li>Mathematics / Data Science applied to time series. Thesis title: Symbolic representations of time series [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">manuscript PDF</a> / <a href="/files/2024_01_08_phd_defense.pdf">defense slides PDF</a>].</li>
         <li>Advisors: <a href="http://www.laurentoudre.fr/">Laurent Oudre</a> and <a href="https://charles.doffy.net/">Charles Truong</a>, <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> (Université Paris-Saclay, CNRS, ENS Paris-Saclay).</li>
         <li>PhD successfully defended on January 8th, 2024. Committee: <a href="https://sites.google.com/site/mougeotmathilde/">Mathilde Mougeot</a> (Présidente), <a href="https://germain-forestier.info/">Germain Forestier</a> (Rapporteur & Examinateur), <a href="https://rtavenar.github.io/research/bio.html">Romain Tavenard</a> (Rapporteur & Examinateur), <a href="https://helios2.mi.parisdescartes.fr/~themisp/">Themis Palpanas</a> (Examinateur), and <a href="https://www2.informatik.hu-berlin.de/~schaefpa/">Patrick Schäfer</a> (Examinateur).</li>
         <li>Extra activities:
