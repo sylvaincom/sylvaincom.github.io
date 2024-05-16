@@ -7,9 +7,13 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=yXz3FG8AAAAJ">my Google Scholar profile</a>.
 
+## PhD manuscript
+
+- Sylvain Combettes. Symbolic representations of time series. Machine Learning [cs.LG]. Université Paris-Saclay, 2024. English. NNT : 2024UPASM002. tel-04573912. [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a>]
+
 ## International conference papers
 
-- S. W. Combettes, P. Boniol, C. Truong, and L. Oudre. "d_{symb} playground: an interactive tool to explore large multivariate time series datasets." In <i>Proceedings of the International Conference on Data Engineering (ICDE)</i>, Utrecht, Netherlands, 2024. [<a href="https://icde2024.github.io/demos.html">website</a> / <a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">PDF</a> / <a href="https://github.com/boniolp/dsymb-playground">GitHub</a> / <a href="https://dsymb-playground.streamlit.app/">Streamlit app</a> / <a href="https://youtu.be/4verma-Aqo8">4 min YouTube video</a>]
+- S. W. Combettes, P. Boniol, C. Truong, and L. Oudre. "d_{symb} playground: an interactive tool to explore large multivariate time series datasets." In <i>Proceedings of the International Conference on Data Engineering (ICDE)</i>, Utrecht, Netherlands, 2024. [<a href="https://icde2024.github.io/demos.html">website</a> / <a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">PDF</a> / <a href="https://github.com/boniolp/dsymb-playground">GitHub</a> / <a href="https://dsymb-playground.streamlit.app/">Streamlit app</a> / <a href="https://youtu.be/4verma-Aqo8">4 min YouTube video</a> / <a href="https://icde2024.github.io/">ICDE 2024</a>]
 - S. W. Combettes, C. Truong, and L. Oudre. "An Interpretable Distance Measure for Multivariate Non-Stationary Physiological Signals." In <i>Proceedings of the International Conference on Data Mining Workshops (ICDMW)</i>, Shanghai, China, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10411636">website</a> / <a href="http://www.laurentoudre.fr/publis/ICDM2023.pdf">PDF</a> / <a href="https://github.com/sylvaincom/d-symb">GitHub</a> / <a href="https://www.cloud-conf.net/icdm2023/index.html">ICDM 2023</a> / <a href="https://ai4ts.github.io/icdm2023">AI4TS workshop</a>]
 
 ## Journal papers
