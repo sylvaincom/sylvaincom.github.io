@@ -59,7 +59,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
       <ul>
         <li>Topic: Generating fictitious realistic patient data with generative adversarial networks (GANs).</li>
         <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
-        <li>Links: <a href="https://sylvaincom.github.io/files/medgan_report.pdf">report</a>, <a href="https://sylvaincom.github.io/files/medgan_slides.pdf">slides</a>, <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>, <a href="https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3">Medium blog</a>.</li>
+        <li>Links: <a href="/files/medgan_report.pdf">report</a>, <a href="/files/medgan_slides.pdf">slides</a>, <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>, <a href="https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3">Medium blog</a>.</li>
       </ul>
     </td>
   </tr>
@@ -78,7 +78,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td colspan="3">
       <ul>
-        <li>Mathematics / Data Science applied to time series. Thesis title: Symbolic representations of time series [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a>].</li>
+        <li>Mathematics / Data Science applied to time series. Thesis title: Symbolic representations of time series [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a> / <a href="/files/2024_01_08_phd_defense.pdf">defense slides PDF</a>].</li>
         <li>Advisors: <a href="http://www.laurentoudre.fr/">Laurent Oudre</a> and <a href="https://charles.doffy.net/">Charles Truong</a>, <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> (Université Paris-Saclay, CNRS, ENS Paris-Saclay).</li>
         <li>PhD successfully defended on January 8th, 2024. Committee: <a href="https://sites.google.com/site/mougeotmathilde/">Mathilde Mougeot</a> (Présidente), <a href="https://germain-forestier.info/">Germain Forestier</a> (Rapporteur & Examinateur), <a href="https://rtavenar.github.io/research/bio.html">Romain Tavenard</a> (Rapporteur & Examinateur), <a href="https://helios2.mi.parisdescartes.fr/~themisp/">Themis Palpanas</a> (Examinateur), and <a href="https://www2.informatik.hu-berlin.de/~schaefpa/">Patrick Schäfer</a> (Examinateur).</li>
         <li>Extra activities:
@@ -199,10 +199,10 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
 * *Research Project in Data Science*, [École des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy), Nancy, Oct. 2019 &ndash; Feb. 2020 (5 months).
   * Topic: Comparison of empirical probability distributions using integral probability metrics and f-divergences.
   * Result: I show that a new simulation method for the Choquet integral is "correct".
-  * Links: [report](https://sylvaincom.github.io/files/comparison_distributions_report.pdf) / [slides](https://sylvaincom.github.io/files/comparison_distributions_slides.pdf) / [GitHub](https://github.com/sylvaincom/comparison-distributions).
+  * Links: [report](/files/comparison_distributions_report.pdf) / [slides](/files/comparison_distributions_slides.pdf) / [GitHub](https://github.com/sylvaincom/comparison-distributions).
 * *Data Scientist intern*, [Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier), Paris Area, June 2019 &ndash; Sep. 2019 (3 months).
   * Topic: Generating fictitious realistic patient data with generative adversarial networks (GANs).
-  * Links: [report](https://sylvaincom.github.io/files/medgan_report.pdf) / [slides](https://sylvaincom.github.io/files/medgan_slides.pdf) / [GitHub](https://github.com/sylvaincom/comparison-distributions) / [Medium blog](https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3).
+  * Links: [report](/files/medgan_report.pdf) / [slides](/files/medgan_slides.pdf) / [GitHub](https://github.com/sylvaincom/comparison-distributions) / [Medium blog](https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3).
 * *Research Project in Data Science*, [Saint-Gobain](https://en.wikipedia.org/wiki/Saint-Gobain), Paris Area, Oct. 2018 &ndash; June 2019 (9 months).
   * Topic: Anomaly detection using principal component analysis (PCA) and Gaussian kernel PCA.
   * Result: the algorithm can detect 100% of the failure days observed by operators from Saint-Gobain.

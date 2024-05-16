@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## PhD manuscript
 
-- Sylvain Combettes. Symbolic representations of time series. Machine Learning [cs.LG]. Université Paris-Saclay, 2024. English. NNT : 2024UPASM002. tel-04573912. [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a> / <a href="/files/2024_01_08_phd_defense.pdf">slides</a>]
+- Sylvain Combettes. Symbolic representations of time series. Machine Learning [cs.LG]. Université Paris-Saclay, 2024. English. NNT : 2024UPASM002. tel-04573912. [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a> / <a href="/files/2024_01_08_phd_defense.pdf">defense slides PDF</a>]
 
 ## International conference papers
 
