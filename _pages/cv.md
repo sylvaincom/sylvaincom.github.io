@@ -58,7 +58,6 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
     <td colspan="3">
       <ul>
         <li>Topic: Generating fictitious realistic patient data with generative adversarial networks (GANs).</li>
-        <li>Result: I show that a new simulation method for the Choquet integral is "correct".</li>
         <li>Links: <a href="/files/medgan_report.pdf">report</a>, <a href="/files/medgan_slides.pdf">slides</a>, <a href="https://github.com/sylvaincom/comparison-distributions">GitHub</a>, <a href="https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3">Medium blog</a>.</li>
       </ul>
     </td>
