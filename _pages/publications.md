@@ -26,8 +26,7 @@ Finally, they apply the general edit distance with custom costs between the resu
 
 We show the performance of ASTRIDE compared to 4 other symbolic representations on reconstruction and, when applicable, on classification tasks.
 For $d_{symb}$, experiments show how interpretable the symbolization is.
-Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achieves a competitive performance while being several orders of magnitude faster.<br><br>
-
+Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achieves a competitive performance while being several orders of magnitude faster.
 <hr style="height: 3px; background-color: black;">
 </details>
 
