@@ -17,7 +17,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
 
 <table>
   <tr>
-    <td rowspan="2" style="width: 100px;">Feb. 2024 &ndash; <i>present</i></td>
+    <td rowspan="2" style="width: 100px;">Feb. &ndash; Aug. 2024 (7 months)</td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay"><b>École Normale Supérieure Paris-Saclay</b></a></td>
     <td><i>Postdoctoral researcher</i></td>
     <td>Paris area, France</td>
