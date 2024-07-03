@@ -7,6 +7,30 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=yXz3FG8AAAAJ">my Google Scholar profile</a>.
 
+<details>
+<summary>Click here to get an overview of my research.</summary>
+<hr style="height: 3px; background-color: black;">
+My research career took place during my PhD at Ecole Normale Supérieure Paris-Saclay (ENS P-S), from October 2020 to January 2024 (3 years and 4 months). From February to August 2024 (6 months), I was a postdoctoral researcher at ENS P-S, but my time was dedicated to help build the BrevetAI from SaclAI-School, a pedagogical platform for AI acculturation.<br><br>
+
+My research is at the intersection of Mathematics and Machine Learning for time series analysis. More precisely, my publications are on symbolic representations and distances between univariate and multivariate time series. My PhD manuscript <b>[T1]</b> sums up my research and contains 2 literature reviews, 2 major contributions (ASTRIDE <b>[IC3]</b> and $d_{symb}$ <b>[IC1]</b>), 1 interactive tool on Streamlit (the $d_{symb}$ playground <b>[IC2]</b>) and 1 open-access data set (the arm-CODA data set <b>[J1]</b>). My manuscript's abstract is the following.
+<br><br>
+
+The objectives of this thesis are to define novel symbolic representations and distance measures that are suited for time series that can be multivariate and non-stationary.
+In addition, they should preserve the time information, be interpretable, and fast to compute.
+We review symbolic representations of time series (that transform a real-valued series into a shorter discrete-valued series), as well as distance measures on time series, strings, and symbolic sequences (that result from a symbolization process).<br><br>
+
+We propose two contributions: ASTRIDE for a data set of univariate time series, and $d_{symb}$  for a data set of multivariate time series.
+We also developed the $d_{symb}$ playground, an online interactive tool that allows users to apply $d_{symb}$ to their uploaded data.
+ASTRIDE and $d_{symb}$ are data-driven as they use change-point detection for the segmentation step, then either quantiles or a $K$-means clustering algorithm for the quantization step.
+Finally, they apply the general edit distance with custom costs between the resulting symbolic sequences.<br><br>
+
+We show the performance of ASTRIDE compared to 4 other symbolic representations on reconstruction and, when applicable, on classification tasks.
+For $d_{symb}$, experiments show how interpretable the symbolization is.
+Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achieves a competitive performance while being several orders of magnitude faster.<br><br>
+
+<hr style="height: 3px; background-color: black;">
+</details>
+
 ## PhD manuscript
 
 <table>
