@@ -10,7 +10,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <details>
 <summary>Click here for an overview of my research.</summary>
 <hr style="height: 3px; background-color: black;">
-<!-- My research career took place during my PhD at Ecole Normale Supérieure Paris-Saclay (ENS P-S), from October 2020 to January 2024 (3 years and 4 months). From February to August 2024 (6 months), I was a postdoctoral researcher at ENS P-S, but my time was dedicated to help build the BrevetAI from SaclAI-School, a pedagogical platform for AI acculturation.<br><br> -->
 
 My PhD research was at the intersection of Mathematics and Machine Learning for time series analysis. More precisely, my publications are on symbolic representations and distances between univariate and multivariate time series. My PhD manuscript <b>[T1]</b> sums up my research and contains 2 literature reviews, 2 major contributions (ASTRIDE <b>[IC3]</b> and $d_{symb}$ <b>[IC1]</b>), 1 interactive tool on Streamlit (the $d_{symb}$ playground <b>[IC2]</b>) and 1 open-access data set (the arm-CODA data set <b>[J1]</b>). The abstract of my manuscript is as follows.
 <br><br>
