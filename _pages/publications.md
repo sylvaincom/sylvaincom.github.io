@@ -63,7 +63,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
     <td>Method name: $d_{symb}$ playground.</td>
   </tr>
   <tr>
-    <td>Links: <a href="https://icde2024.github.io/demos.html">website</a> / <a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">paper PDF</a> / <a href="/files/2024_05_15_dsymb_playground_poster.pdf">poster PDF</a> / <a href="https://github.com/boniolp/dsymb-playground">GitHub</a> / <a href="https://dsymb-playground.streamlit.app/">Streamlit app</a> / <a href="https://youtu.be/4verma-Aqo8">4 min YouTube video</a> / <a href="https://icde2024.github.io/">ICDE 2024</a>.</td>
+    <td>Links: <a href="https://www.computer.org/csdl/proceedings-article/icde/2024/171500f437/1YOtVpNaCVW">paper</a> / <a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">paper PDF</a> / <a href="/files/2024_05_15_dsymb_playground_poster.pdf">poster PDF</a> / <a href="https://github.com/boniolp/dsymb-playground">GitHub</a> / <a href="https://dsymb-playground.streamlit.app/">Streamlit app</a> / <a href="https://youtu.be/4verma-Aqo8">4 min YouTube video</a> / <a href="https://icde2024.github.io/">ICDE 2024</a> / <a href="https://icde2024.github.io/demos.html">ICDE 2024 demos</a>.</td>
   </tr>
 
   <tr>
@@ -74,7 +74,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
     <td>Method name: $d_{symb}$.</td>
   </tr>
   <tr>
-    <td>Links: <a href="https://ieeexplore.ieee.org/abstract/document/10411636">website</a> / <a href="http://www.laurentoudre.fr/publis/ICDM2023.pdf">paper PDF</a> / <a href="/files/2023_12_01_dsymb_icdm_slides.pdf">slides PDF</a> / <a href="/files/2023_12_01_dsymb_icdm_poster.pdf">poster PDF</a> / <a href="https://github.com/sylvaincom/d-symb">GitHub</a> / <a href="https://www.cloud-conf.net/icdm2023/index.html">ICDM 2023</a> / <a href="https://ai4ts.github.io/icdm2023">AI4TS workshop</a>.</td>
+    <td>Links: <a href="https://ieeexplore.ieee.org/abstract/document/10411636">paper</a> / <a href="http://www.laurentoudre.fr/publis/ICDM2023.pdf">paper PDF</a> / <a href="/files/2023_12_01_dsymb_icdm_slides.pdf">slides PDF</a> / <a href="/files/2023_12_01_dsymb_icdm_poster.pdf">poster PDF</a> / <a href="https://github.com/sylvaincom/d-symb">GitHub</a> / <a href="https://www.cloud-conf.net/icdm2023/index.html">ICDM 2023</a> / <a href="https://ai4ts.github.io/icdm2023">AI4TS workshop</a>.</td>
   </tr>
 </table>
 
@@ -104,7 +104,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
     <td>Data set name: Arm-CODA.</td>
   </tr>
   <tr>
-    <td>Links: <a href="https://www.ipol.im/pub/art/2024/494/">website</a> / <a href="https://www.ipol.im/pub/art/2024/494/article.pdf">paper PDF</a> / <a href="https://ipolcore.ipol.im/demo/clientApp/demo.html?id=494">demo</a>.</td>
+    <td>Links: <a href="https://www.ipol.im/pub/art/2024/494/">paper</a> / <a href="https://www.ipol.im/pub/art/2024/494/article.pdf">paper PDF</a> / <a href="https://ipolcore.ipol.im/demo/clientApp/demo.html?id=494">demo</a>.</td>
   </tr>
 </table>
 
@@ -119,7 +119,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
     <td>Method name: ASTRIDE.</td>
   </tr>
   <tr>
-    <td>Links: <a href="https://arxiv.org/abs/2302.04097">website</a> / <a href="https://arxiv.org/pdf/2302.04097.pdf">paper PDF</a> / <a href="https://github.com/sylvaincom/astride">GitHub</a>.</td>
+    <td>Links: <a href="https://arxiv.org/abs/2302.04097">paper</a> / <a href="https://arxiv.org/pdf/2302.04097.pdf">paper PDF</a> / <a href="https://github.com/sylvaincom/astride">GitHub</a>.</td>
   </tr>
 </table>
 
