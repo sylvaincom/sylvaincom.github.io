@@ -52,7 +52,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
     <td>Method name: ASTRIDE.</td>
   </tr>
   <tr>
-    <td>Links: <a href="http://www.laurentoudre.fr/publis/EUSIPCO2024symb.pdf">paper PDF</a> / <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO 2024</a>.</td>
+    <td>Links: <a href="https://cmsworkshops.com/EUSIPCO2024/view_paper.php?PaperNum=1780">paper</a> / <a href="http://www.laurentoudre.fr/publis/EUSIPCO2024symb.pdf">paper PDF</a> / <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO 2024</a>.</td>
   </tr>
 
   <tr>
