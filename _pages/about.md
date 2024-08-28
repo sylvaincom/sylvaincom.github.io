@@ -18,7 +18,7 @@ I successfully defended my PhD on January 8th, 2024.
 Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
 
 ## News
-- [<b><i>Aug 28th, 2024</i></b>] I presented our paper "Symbolic representation for time series" [<a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001962.pdf">PDF</a>] at the <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO conference</a> in Lyon, France.
+- [Aug 28th, 2024] I presented our paper "Symbolic representation for time series" [<a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001962.pdf">PDF</a>] at the <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO conference</a> in Lyon, France.
 - [May 15th, 2024] My co-author <a href="https://boniolp.github.io/">Paul Boniol</a> presented the $d_{symb}$ playground at the <a href="https://icde2024.github.io/">ICDE conference</a> in Utrecht, Netherlands.
 - [May 13th, 2024] My PhD's manuscript is now available online [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a>], as well as the slides of my defense [<a href="/files/2024_01_08_phd_defense.pdf">PDF</a>].
 - [May 2nd, 2024] I presented the $d_{symb}$ playground at the <a href="https://www.sorbonne-universite.fr/evenements/vers-une-supply-chain-alimentaire-durable">Towards a Sustainable Food Supply Chain: Pool, Optimize and Decarbonize Flows using AI</a> conference organized by <a href="https://www.califrais.fr/">Califrais</a> and <a href="https://scai.sorbonne-universite.fr/">SCAI (Sorbonne Center for Artificial Intelligence)</a>.
