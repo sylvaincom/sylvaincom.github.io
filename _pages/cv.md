@@ -9,13 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Contact: `sylvain.combettes [a t] ens-paris-saclay.fr`
+Contact: `sylvain.combettes8 [a t] gmail.com`
 
 You can also look into my <a href="/publications">publications</a>, my <a href="/talks">talks</a>, and my <a href="/teaching">teaching experience</a> in their according tabs.
 
 <h2>Professional experience</h2>
 
 <table>
+  <tr>
+    <td rowspan="2" style="width: 100px;">Sep. 2024 &ndash; now</td>
+    <td><a href="https://probabl.ai/"><b>:probabl.</b></a></td>
+    <td><i>Machine Learning Product Engineer</i></td>
+    <td>Paris, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>Probabl is a Parisian-based AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the world-famous open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.</li>
+        <li>I contribute to building a product at the intersection of AI, time series, and MLOps to help data scientists from the industry in their day-to-day work. <i>Do not hesitate to contact me if you are in need of such a product!</i></li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td rowspan="2" style="width: 100px;">Feb. &ndash; Aug. 2024 (7 months)</td>
     <td><a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay"><b>École Normale Supérieure Paris-Saclay</b></a></td>
@@ -25,9 +39,9 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td colspan="3">
       <ul>
-        <li>I am a postdoctoral researcher at the <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> research lab under the supervision of <a href="http://www.laurentoudre.fr/">Laurent Oudre</a>.</li>
-        <li>Pedagogical engineer and product manager for the BrevetAI of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a> (<a href="https://www.dataia.eu/en">DATAIA Institute</a>), an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay.</li>
-        <li>The team consists of 10 members, including pedagogical engineers, developers, UX/UI designers, etc.</li>
+        <li>I was a postdoctoral researcher at the <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> research lab under the supervision of <a href="http://www.laurentoudre.fr/">Laurent Oudre</a>.</li>
+        <li>I acted as a pedagogical engineer and product manager for the BrevetAI of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a> (<a href="https://www.dataia.eu/en">DATAIA Institute</a>), an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay.</li>
+        <li>The team consisted of 10 members, including pedagogical engineers, developers, UX/UI designers, etc.</li>
       </ul>
     </td>
   </tr>
