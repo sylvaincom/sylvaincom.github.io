@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), a Parisian-based AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the world-famous open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.
-I contribute to building a product at the intersection of AI, time series, and MLOps to help data scientists from the industry in their day-to-day work. <i>Do not hesitate to contact me if you are in need of such a product!</i>
+Since September 2024, I am a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), a Parisian-based AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.
+I contribute to building a product that helps data scientists from the industry in their day-to-day work. <i>Feel free to contact me if you want to know more!</i>
 
 Previously, from February to August 2024, I was a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en), under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
 I worked on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a "learning-by-doing" pedagogical platform for AI acculturation.
@@ -17,7 +17,7 @@ I worked on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/s
 From October 2020 to January 2024, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
 More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
-Contact: `sylvain.combettes8 [a t] gmail.com`
+Contact: `sylvain [a t] probabl.ai`
 
 ## News
 - [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/) in Paris, a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>!

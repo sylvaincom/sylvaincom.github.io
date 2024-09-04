@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Contact: `sylvain.combettes8 [a t] gmail.com`
+Contact: `sylvain [a t] probabl.ai`
 
 You can also look into my <a href="/publications">publications</a>, my <a href="/talks">talks</a>, and my <a href="/teaching">teaching experience</a> in their according tabs.
 
@@ -25,8 +25,8 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td colspan="3">
       <ul>
-        <li>Probabl is a Parisian-based AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the world-famous open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.</li>
-        <li>I contribute to building a product at the intersection of AI, time series, and MLOps to help data scientists from the industry in their day-to-day work. <i>Do not hesitate to contact me if you are in need of such a product!</i></li>
+        <li>Probabl is a Parisian-based AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the popular open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.</li>
+        <li>I contribute to building a product that helps data scientists from the industry in their day-to-day work. <i>Feel free to contact me if you want to know more!</i></li>
       </ul>
     </td>
   </tr>
