@@ -18,7 +18,7 @@ I worked on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/s
 From October 2020 to January 2024, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
 More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
-Contact: `sylvain.combettes8 [a t] gmail.com`
+Contact: `sylvain [a t] probabl.ai`
 
 ## News
 - [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/) in Paris, a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>!
