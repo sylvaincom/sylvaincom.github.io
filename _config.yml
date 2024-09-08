@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sylvain Combettes, PhD"
+title                    : "Sylvain Combettes"
 title_separator          : "-"
-name                     : &name "Sylvain Combettes, PhD"
+name                     : &name "Sylvain Combettes"
 description              : &description "personal description"
 url                      : https://sylvaincom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sylvain Combettes, PhD"
+  name             : "Sylvain Combettes"
   avatar           : "profile.png"
-  bio              : "ML Product Engineer @ :probabl."
+  bio              : "PhD &#9670; ML Product Engineer @ :probabl."
   location         : "Paris, France"
   employer         : # "Centre Borelli, ENS Paris-Saclay"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
