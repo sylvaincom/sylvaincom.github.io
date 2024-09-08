@@ -10,7 +10,7 @@ redirect_from:
 
 Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), a Parisian-based AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the world-famous open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.
 I contribute to building a product, the <i>Data Scientist Companion</i>, to empower data scientists and companies in mastering their entire data lifecycle.
-Feel free to contact me if you are in need of such a product!
+Feel free to contact me if you are interested in such a product!
 
 Previously, from February to August 2024, I was a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
 I worked on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a learning-by-doing pedagogical platform for AI acculturation.

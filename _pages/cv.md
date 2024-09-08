@@ -27,7 +27,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
       <ul>
         <li>:probabl. is an AI startup that is a spin-off of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the world-famous open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a>.</li>
         <li>As a ML Product Engineer, I contribute to building the <i>Data Scientist Companion</i> to empower data scientists and companies in mastering their entire data lifecycle.</li>
-        <li>Feel free to contact me if you are in need of such a product!</li>
+        <li>Feel free to contact me if you are interested in such a product!</li>
       </ul>
     </td>
   </tr>
