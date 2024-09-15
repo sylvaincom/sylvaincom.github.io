@@ -29,15 +29,13 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
         <details>
           <summary>More info</summary>
           <ul>
-            <li>[Sep. 2024] <a href="https://www.linkedin.com/posts/ylechelle_announcing-major-milestone-empowering-the-activity-7239910633838637056-QqFb">Co-founder & CEO Yann Lechelle announcing a 5.5M&euro; community funding round</a></li>
-            <li>[June 2024] <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Co-founder and scientific advisor Gael Varoquaux on Probabl's launch</a></li>
-            <li>[Feb. 2024] <a href="https://www.linkedin.com/posts/ylechelle_ownyourdatascience-france-france2030-activity-7158736902500601856-pOe4">Co-founder & CEO Yann Lechelle on Probabl's launch</a></li>
-            <li>[Feb. 2024] <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch on Probabl's launch</a></li>
+            <li>[Sep. 2024] Probabl announces a 5.5M&euro; community funding round [<a href="https://www.linkedin.com/posts/ylechelle_announcing-major-milestone-empowering-the-activity-7239910633838637056-QqFb">CEO's post</a> / <a href="https://papers.probabl.ai/announcing-major-milestone-empowering-the-future-of-data-science">press release</a> / <a href="https://www.actuia.com/actualite/probabl-annonce-une-levee-de-55-millions-deuros-pour-accelerer-sa-mission-autour-de-scikit-learn/">ActuIA</a> / <a href="https://www.frenchweb.fr/probabl-vers-une-acceleration-de-lia-et-de-la-science-des-donnees-grace-a-une-levee-de-fonds-de-55-me/449047">FRENCHWEB.FR</a>]</li>
+            <li>[Feb. 2024] Probabl announces its launch [<a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Co-founder's post</a> / <a href="https://www.linkedin.com/posts/ylechelle_ownyourdatascience-france-france2030-activity-7158736902500601856-pOe4">CEO's post</a> / <a href="https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/">TechCrunch</a> / <a href="https://www.actuia.com/actualite/probabl-vers-une-science-des-donnees-souveraine-et-open-source/">ActuIA</a>]</li>
           </ul>
         </details>
         </li>
-        <li>As a ML Product Engineer, I contribute to building the <i>Data Scientist Companion</i> to empower data scientists and companies in mastering their entire data lifecycle.</li>
-        <li>Feel free to contact me if you are interested in such a product!</li>
+        <li>As a ML Product Engineer, I contribute to designing and developing a data scientist companion to empower data scientists and companies in mastering their entire data lifecycle.</li>
+        <li>Feel free to reach out to me if you are interested in such a product!</li>
       </ul>
     </td>
   </tr>
