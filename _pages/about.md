@@ -28,7 +28,7 @@ Contact: `sylvain [a t] probabl.ai`
 - [May 15th, 2024] My co-author <a href="https://boniolp.github.io/">Paul Boniol</a> presented the $d_{symb}$ playground [<a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">PDF</a>] at the <a href="https://icde2024.github.io/">ICDE conference</a> in Utrecht, Netherlands.
 - [May 13th, 2024] My PhD's manuscript is available online [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a>], as well as the slides of my defense [<a href="/files/2024_01_08_phd_defense.pdf">PDF</a>].
 - [May 2nd, 2024] I presented the $d_{symb}$ playground at the <a href="https://www.sorbonne-universite.fr/evenements/vers-une-supply-chain-alimentaire-durable">Towards a Sustainable Food Supply Chain: Pool, Optimize and Decarbonize Flows using AI</a> conference organized by <a href="https://www.califrais.fr/">Califrais</a> and <a href="https://scai.sorbonne-universite.fr/">SCAI (Sorbonne Center for Artificial Intelligence)</a>.
-- [Apr. 9th, 2024] I presented my PhD's work at the <a href="https://centreborelli.ens-paris-saclay.fr/fr/SMLMDA">Machine Learning and Massive Data Analysis (MLMDA) seminar</a>.
+- [Apr. 9th, 2024] I presented my PhD work at the <a href="https://centreborelli.ens-paris-saclay.fr/fr/SMLMDA">Machine Learning and Massive Data Analysis (MLMDA) seminar</a>.
 - [Mar. 7th, 2024] I presented the $d_{symb}$ playground at the Entrepreneur First - <a href=" https://lu.ma/rfwio7jg">Pitch Your Thesis: AI edition</a> talk.
 - [Feb. 1st, 2024] I started a postdoc at ENS Paris-Saclay, France!
 - [Jan. 8th, 2024] I successfully defended my PhD from ENS Paris-Saclay, France!
