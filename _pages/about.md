@@ -13,7 +13,7 @@ I contribute to designing and developing a data scientist companion to empower d
 Feel free to reach out to me if you are interested in such a product!
 
 Previously, from February to August 2024, I was a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
-I worked on the BrevetAI project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a learning-by-doing pedagogical platform for AI acculturation.
+I worked on the <a href="https://www.dataia.eu/formations/brevetai-acculturation-lia">BrevetAI</a> project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a learning-by-doing pedagogical platform for AI acculturation.
 
 From October 2020 to January 2024, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
 More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.

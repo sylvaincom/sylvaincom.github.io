@@ -49,7 +49,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
     <td colspan="3">
       <ul>
         <li>Postdoctoral researcher at the <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> research lab under the supervision of <a href="http://www.laurentoudre.fr/">Laurent Oudre</a>.</li>
-        <li>Role: pedagogical engineer and product manager for the BrevetAI of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a> (<a href="https://www.dataia.eu/en">DATAIA Institute</a>), an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay.</li>
+        <li>Role: pedagogical engineer and product manager for the <a href="https://www.dataia.eu/formations/brevetai-acculturation-lia">BrevetAI</a> project of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a> (<a href="https://www.dataia.eu/en">DATAIA Institute</a>), an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay.</li>
         <li>Team of approx. 10 members: pedagogical engineers, software engineers, and UX/UI designers.</li>
       </ul>
     </td>
