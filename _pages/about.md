@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a>.
+Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a>.
 I contribute to designing and developing a data scientist companion to empower data scientists and companies in mastering their entire data lifecycle.
 Feel free to reach out to me if you are interested in such a product!
+
+In parallel, I am a Data Science lecturer at <a href="https://www.polytechnique.edu/en">Ecole Polytechnique</a> and <a href="https://exed.centralesupelec.fr">CentraleSupélec Exed</a>.
 
 Previously, from February to August 2024, I was a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
 I worked on the <a href="https://www.dataia.eu/formations/brevetai-acculturation-lia">BrevetAI</a> project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a learning-by-doing pedagogical platform for AI acculturation.
