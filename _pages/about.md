@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a>.
+Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee?pvs=4).
 I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.
 Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a> if you are interested in such a product!
 
@@ -24,9 +24,11 @@ Contact: `sylvain [a t] probabl.ai`
 
 ## News
 
-- [Oct. 31st, 2024] Probabl launched the official scikit-learn certification! More info: [LinkedIn post](https://www.linkedin.com/posts/probabl_official-scikit-learn-certification-launch-activity-7257728875546263552-mSG5) / [DevRel's LinkedIn post](https://www.linkedin.com/posts/vincentwarmerdam_official-scikit-learn-certification-launch-activity-7257736204098375680-EZz9) / [press release](https://papers.probabl.ai/official-scikit-learn-certification-launch).
-- [Sep. 12th, 2024] Probabl closed a 5.5M€ community funding round! More info: [CEO's LinkedIn post](https://www.linkedin.com/posts/ylechelle_announcing-major-milestone-empowering-the-activity-7239910633838637056-QqFb) / [press release](https://papers.probabl.ai/announcing-major-milestone-empowering-the-future-of-data-science) / [ActuIA](https://www.actuia.com/actualite/probabl-annonce-une-levee-de-55-millions-deuros-pour-accelerer-sa-mission-autour-de-scikit-learn/) / [FRENCHWEB.FR](https://www.frenchweb.fr/probabl-vers-une-acceleration-de-lia-et-de-la-science-des-donnees-grace-a-une-levee-de-fonds-de-55-me/449047).
+- [Oct. 31st, 2024] Probabl launched the official scikit-learn certification! 
+- [Sep. 12th, 2024] Probabl closed a 5.5M€ community funding round!
 - [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/) in Paris, the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>! More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a>.
+
+For more info about Probabl, I wrote a [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee?pvs=4).
 
 ### Older news
 
