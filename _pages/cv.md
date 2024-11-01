@@ -25,7 +25,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td colspan="3">
       <ul>
-        <li>:probabl. is the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. :probabl. is an <i>Entreprise à Mission de Souveraineté Industrielle et Numérique</i> and a spin-off of Inria. More info: <a href="https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee?pvs=4">Notion page</a>.
+        <li>:probabl. is the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. :probabl. is an <i>Entreprise à Mission de Souveraineté Industrielle et Numérique</i> and a spin-off of Inria. More info: <a href="https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a?pvs=4">Notion page</a>.
         </li>
         <li>As a ML Product Engineer, I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.</li>
         <li>Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a> if you are interested in such a product!</li>
