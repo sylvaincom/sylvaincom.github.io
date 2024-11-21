@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / <a href="https://gael-varoquaux.info/programming/promoting-open-source-from-inria-to-probabl.html">Gaël Varoquaux's blog</a>.
-I contribute to designing and developing a data scientist companion to empower data scientists and companies in mastering their entire data lifecycle.
-Feel free to reach out to me if you are interested in such a product!
+Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a?pvs=4).
+I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.
+Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a> if you are interested in such a product!
 
 In parallel, I am a Data Science lecturer at <a href="https://www.polytechnique.edu/en">Ecole Polytechnique</a> and <a href="https://exed.centralesupelec.fr">CentraleSupélec Exed</a>.
 
@@ -24,8 +24,14 @@ Contact: `sylvain [a t] probabl.ai`
 
 ## News
 
-- [Sep. 12th, 2024] Probabl closed a 5.5M€ community funding round! More info: [CEO's LinkedIn post](https://www.linkedin.com/posts/ylechelle_announcing-major-milestone-empowering-the-activity-7239910633838637056-QqFb) / [press release](https://papers.probabl.ai/announcing-major-milestone-empowering-the-future-of-data-science) / [ActuIA](https://www.actuia.com/actualite/probabl-annonce-une-levee-de-55-millions-deuros-pour-accelerer-sa-mission-autour-de-scikit-learn/) / [FRENCHWEB.FR](https://www.frenchweb.fr/probabl-vers-une-acceleration-de-lia-et-de-la-science-des-donnees-grace-a-une-levee-de-fonds-de-55-me/449047).
-- [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/) in Paris, the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>!
+- [Oct. 31st, 2024] Probabl launched the official scikit-learn certification! 
+- [Sep. 12th, 2024] Probabl closed a 5.5M€ community funding round!
+- [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/) in Paris, the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>! More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a>.
+
+For more info about Probabl, I wrote a [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a?pvs=4).
+
+### Older news
+
 - [Aug. 28th, 2024] I presented ASTRIDE [<a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001962.pdf">PDF</a>] at the <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO conference</a> in Lyon, France.
 - [May 15th, 2024] My co-author <a href="https://boniolp.github.io/">Paul Boniol</a> presented the $d_{symb}$ playground [<a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">PDF</a>] at the <a href="https://icde2024.github.io/">ICDE conference</a> in Utrecht, Netherlands.
 - [May 13th, 2024] My PhD's manuscript is available online [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a>], as well as the slides of my defense [<a href="/files/2024_01_08_phd_defense.pdf">PDF</a>].
