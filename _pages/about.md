@@ -20,7 +20,7 @@ I worked on the <a href="https://www.dataia.eu/formations/brevetai-acculturation
 From October 2020 to January 2024, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
 More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
 
-Contact: `sylvain [a t] probabl.ai`
+Contact: `sylvain.combettes8 [a t] gmail.com`
 
 ## News
 
