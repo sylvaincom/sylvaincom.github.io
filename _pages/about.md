@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a?pvs=4).
+Since September 2024, I have been a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee).
 I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.
 Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a> if you are interested in such a product!
 
@@ -28,7 +28,7 @@ Contact: `sylvain.combettes8 [a t] gmail.com`
 - [Sep. 12th, 2024] Probabl closed a 5.5M€ community funding round!
 - [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [:probabl.](https://probabl.ai/) in Paris, the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>! More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a>.
 
-For more info about Probabl, I wrote a [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a?pvs=4).
+For more info about Probabl, I wrote a [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee).
 
 ### Older news
 
