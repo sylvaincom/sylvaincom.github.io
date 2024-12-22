@@ -18,14 +18,14 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
 <table>
   <tr>
     <td rowspan="2" style="width: 100px;">Sep. 2024 &ndash; now</td>
-    <td><a href="https://probabl.ai/"><b>:probabl.</b></a></td>
+    <td><a href="https://probabl.ai/"><b>Probabl</b></a></td>
     <td><i>Machine Learning Product Engineer</i></td>
     <td>Paris, France</td>
   </tr>
   <tr>
     <td colspan="3">
       <ul>
-        <li>:probabl. is the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. :probabl. is an <i>Entreprise à Mission de Souveraineté Industrielle et Numérique</i> and a spin-off of Inria. More info: <a href="https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee">Notion page</a>.
+        <li>Probabl is the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. Probabl is an <i>Entreprise à Mission de Souveraineté Industrielle et Numérique</i> and a spin-off of Inria. More info: <a href="https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee">Notion page</a>.
         </li>
         <li>As a ML Product Engineer, I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.</li>
         <li>Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a> if you are interested in such a product!</li>
@@ -42,7 +42,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
     <td colspan="3">
       <ul>
         <li>Postdoctoral researcher at the <a href="https://centreborelli.ens-paris-saclay.fr/en">Centre Borelli</a> research lab under the supervision of <a href="http://www.laurentoudre.fr/">Laurent Oudre</a>.</li>
-        <li>Role: pedagogical engineer and product manager for the <a href="https://www.dataia.eu/formations/brevetai-acculturation-lia">BrevetAI</a> project of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a> (<a href="https://www.dataia.eu/en">DATAIA Institute</a>), an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay.</li>
+        <li>Role: pedagogical engineer and product manager for the <a href="https://www.dataia.eu/formations/brevetai-acculturation-lia">BrevetAI</a> project of <a href="https://www.dataia.eu/en/saclai-school">SaclAI-School</a> (<a href="https://www.dataia.eu/en">DATAIA Institute</a>), an educational platform for AI acculturation through a learning-by-doing approach, aimed at students of the University of Paris-Saclay. More info: <a href="https://rhinestone-nigella-aee.notion.site/D-couvrez-le-BrevetAI-15e8cad4754380e8be8dc6a045b92ca2">Notion page</a>.</li>
         <li>Team of approx. 10 members: pedagogical engineers, software engineers, and UX/UI designers.</li>
       </ul>
     </td>
