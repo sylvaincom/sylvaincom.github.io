@@ -19,7 +19,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td rowspan="2" style="width: 100px;">Sep. 2024 &ndash; now</td>
     <td><a href="https://probabl.ai/"><b>Probabl</b></a></td>
-    <td><i>Machine Learning Product Engineer</i></td>
+    <td><i>Senior Machine Learning Product Engineer</i></td>
     <td>Paris, France</td>
   </tr>
   <tr>
@@ -27,8 +27,8 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
       <ul>
         <li>Probabl is the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. Probabl is an <i>Entreprise à Mission de Souveraineté Industrielle et Numérique</i> and a spin-off of Inria. More info: <a href="https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee">Notion page</a>.
         </li>
-        <li>As a ML Product Engineer, I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.</li>
-        <li>Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a> if you are interested in such a product!</li>
+        <li>Engineering: core developer of <a href="https://github.com/probabl-ai/skore">skore</a>, an open-source Python library and scikit-learn sidekick; design and implement features, write unit tests using pytest.</li>
+        <li>Product: define pain points and strategy, conduct user interviews, build and refine the documentation using Sphinx.</li>
       </ul>
     </td>
   </tr>
