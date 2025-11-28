@@ -8,30 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Machine Learning Product Engineer at [Probabl](https://probabl.ai/), the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the reference open-source machine learning Python library. More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a> / [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee).
-I contribute to designing and developing a data scientist companion, called <a href="https://github.com/probabl-ai/skore/"><code>skore</code></a>, to empower data scientists and companies in mastering their entire data lifecycle.
-Feel free to reach out to me or join our <a href="https://discord.probabl.ai/">Discord</a>!
+Since September 2025, I am the co-founding CEO of <a href="https://formel.ai">Formel AI</a>. We build reliable, transparent, and efficient Large Language Models. For this, we leverage the verification capabilities of formal methods, such as the Lean 4 theorem prover.
 
-In parallel, I am a Data Science lecturer at <a href="https://www.polytechnique.edu/en">Ecole Polytechnique</a> and <a href="https://exed.centralesupelec.fr">CentraleSupélec Exed</a>.
-
-Previously, from February to August 2024, I was a postdoctoral researcher at the [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/en) research lab from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) under the supervision of [Laurent Oudre](http://www.laurentoudre.fr).
-I worked on the <a href="https://www.dataia.eu/formations/brevetai-acculturation-lia">BrevetAI</a> project from [SaclAI School](https://www.dataia.eu/en/saclai-school) ([DATAIA Institute](https://www.dataia.eu/en)), a learning-by-doing pedagogical platform for AI acculturation.
-
-From October 2020 to January 2024, I was a PhD student, also at the Centre Borelli, where I worked on machine learning applied to time series, under the supervision of [Laurent Oudre](http://www.laurentoudre.fr) and [Charles Truong](https://charles.doffy.net/).
-More precisely, my research focused on symbolic representation for time series, as well as distance measures on them.
+Previously, I was a Senior ML Product Engineer at [Probabl](https://probabl.ai/) (2024-2025), the startup spin-off from Inria and official operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the most popular open-source machine learning Python library. As one of the first employees at Probabl, I was a core developer of the skore library, while also working on product strategy, outreach, and communication. I hold a PhD from ENS Paris-Saclay (2020-2024) on the topic of machine learning applied to time series. From 2021 to 2024, I was a data science lecturer at Ecole Polytechnique Executive Education, Ecole Polytechnique (X-HEC Data Science for Business MScT), and CentraleSupélec Executive Education.
 
 Contact: `sylvain.combettes8 [a t] gmail.com`
 
 ## News
 
-- [Oct. 31st, 2024] Probabl launched the official scikit-learn certification! 
-- [Sep. 12th, 2024] Probabl closed a 5.5M€ community funding round!
-- [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [Probabl](https://probabl.ai/) in Paris, the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>! More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a>.
-
-For more info about Probabl, I wrote a [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee).
+- [Sep. 2025] I am the co-founding CEO of <a href="https://formel.ai">Formel AI</a>!
 
 ### Older news
 
+- [Sep. 3rd, 2024] I started a new job as a Machine Learning Product Engineer at [Probabl](https://probabl.ai/) in Paris, the official brand operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>! More info: <a href="https://www.linkedin.com/posts/sylvain-combettes_ownyourdatascience-activity-7241375428064477184-OWU8">my LinkedIn post</a>. For more info about Probabl, I wrote a [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee).
 - [Aug. 28th, 2024] I presented ASTRIDE [<a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001962.pdf">PDF</a>] at the <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO conference</a> in Lyon, France.
 - [May 15th, 2024] My co-author <a href="https://boniolp.github.io/">Paul Boniol</a> presented the $d_{symb}$ playground [<a href="http://www.laurentoudre.fr/publis/dsymb_demo.pdf">PDF</a>] at the <a href="https://icde2024.github.io/">ICDE conference</a> in Utrecht, Netherlands.
 - [May 13th, 2024] My PhD's manuscript is available online [<a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">PDF</a>], as well as the slides of my defense [<a href="/files/2024_01_08_phd_defense.pdf">PDF</a>].

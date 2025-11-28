@@ -17,7 +17,20 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
 
 <table>
   <tr>
-    <td rowspan="2" style="width: 100px;">Sep. 2024 &ndash; now</td>
+    <td rowspan="2" style="width: 100px;">Sep. 2025 &ndash; now</td>
+    <td><a href="https://formel.ai/"><b>Formel AI</b></a></td>
+    <td><i>Co-founding CEO</i></td>
+    <td>Paris area, France</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <ul>
+        <li>We build reliable, transparent, and efficient Large Language Models. For this, we leverage the verification capabilities of formal methods, such as the Lean 4 theorem prover.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="width: 100px;">Sep. 2024 &ndash; Aug. 2025 (1 year)</td>
     <td><a href="https://probabl.ai/"><b>Probabl</b></a></td>
     <td><i>Senior Machine Learning Product Engineer</i></td>
     <td>Paris, France</td>
