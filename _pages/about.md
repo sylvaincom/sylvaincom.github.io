@@ -16,6 +16,7 @@ Contact: `sylvain.combettes8 [a t] gmail.com`
 
 ## News
 
+- [Nov. 2025] Formel AI has received the 2nd spot of the <a href="https://www.linkedin.com/posts/ecolenormalesuperieure_jeudi-soiront-%C3%A9t%C3%A9-annonc%C3%A9s-les-premiers-ugcPost-7401284253482635264-odbQ">Innovation Prize from École normale supérieure</a>!
 - [Sep. 2025] I am the co-founding CEO of <a href="https://formel.ai">Formel AI</a>!
 
 ### Older news
