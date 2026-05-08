@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2025, I have been the co-founding CEO of <a href="https://formel.ai">Formel AI</a>. We build reliable, transparent, and efficient Large Language Models. For this, we leverage the verification capabilities of formal methods, such as the Lean 4 theorem prover.
+Since September 2025, I have been the co-founding CEO of <a href="https://formel.ai">Formel AI</a>. We build reliable, transparent, and cost-efficient Large Language Models. For this, we leverage the verification capabilities of formal methods.
 
 Previously, I was a Senior ML Product Engineer at [Probabl](https://probabl.ai/) (2024-2025), the startup spin-off from Inria and official operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the most popular open-source machine learning Python library. As one of the first employees at Probabl, I was a core developer of the skore library, while also working on product strategy, outreach, and communication. I hold a PhD from ENS Paris-Saclay (2020-2024) on the topic of machine learning applied to time series. From 2021 to 2024, I was a data science lecturer at Ecole Polytechnique Executive Education, Ecole Polytechnique (X-HEC Data Science for Business MScT), and CentraleSupélec Executive Education.
 
@@ -16,6 +16,8 @@ Contact: `sylvain.combettes8 [a t] gmail.com`
 
 ## News
 
+- [Mar. 2026] We join the <a href="https://www.linkedin.com/posts/sylvain-combettes_agoranov-accueille-4-nouvelles-startups-activity-7445754111263653888-8N6C">Agoranov</a>  incubator!
+- [Feb. 2026] We closed an oversubscribed <a href="https://www.linkedin.com/posts/sylvain-combettes_with-antoine-mazarguil-were-thrilled-activity-7429435501692006400-i3u0">angel round</a> and are actively recruiting!!
 - [Nov. 2025] Formel AI has received the 2nd spot of the <a href="https://www.linkedin.com/posts/ecolenormalesuperieure_jeudi-soiront-%C3%A9t%C3%A9-annonc%C3%A9s-les-premiers-ugcPost-7401284253482635264-odbQ">Innovation Prize from École normale supérieure</a>!
 - [Sep. 2025] I am the co-founding CEO of <a href="https://formel.ai">Formel AI</a>!
 
