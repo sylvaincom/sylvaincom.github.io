@@ -25,7 +25,7 @@ You can also look into my <a href="/publications">publications</a>, my <a href="
   <tr>
     <td colspan="3">
       <ul>
-        <li>We build reliable, transparent, and efficient Large Language Models. For this, we leverage the verification capabilities of formal methods, such as the Lean 4 theorem prover.</li>
+        <li>We build reliable, transparent, and frugal AI through the formal validation of its reasoning.</li>
       </ul>
     </td>
   </tr>
