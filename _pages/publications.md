@@ -46,7 +46,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
 <table>
   <tr>
     <td rowspan="3" style="width: 50px;"><b>IC3</b></td>
-    <td>S. W. Combettes, C. Truong, and L. Oudre. "Symbolic representation for time series." To appear in <i>Proceedings of the European Signal Processing Conference (EUSIPCO)</i>, Lyon, France, 2024.</td>
+    <td>S. W. Combettes, C. Truong, and L. Oudre. "Symbolic representation for time series." In <i>Proceedings of the European Signal Processing Conference (EUSIPCO)</i>, Lyon, France, 2024.</td>
   </tr>
   <tr>
     <td>Method name: ASTRIDE.</td>
