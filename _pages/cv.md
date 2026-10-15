@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Contact: `sylvain.combettes8 [a t] gmail.com`
-
 You can also look into my <a href="/publications">publications</a>, my <a href="/talks">talks</a>, and my <a href="/teaching">teaching experience</a> in their according tabs.
 
 <h2>Professional experience</h2>

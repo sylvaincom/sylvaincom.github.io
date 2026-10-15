@@ -12,8 +12,6 @@ Since September 2025, I have been the co-founding CEO of <a href="https://formel
 
 Previously, I was a Senior ML Product Engineer at [Probabl](https://probabl.ai/) (2024-2025), the startup spin-off from Inria and official operator of <a href="https://scikit-learn.org/stable/">scikit-learn</a>, the most popular open-source machine learning Python library. As one of the first employees at Probabl, I was a core developer of the skore library, while also working on product strategy, outreach, and communication. I hold a PhD from ENS Paris-Saclay (2020-2024) on the topic of machine learning applied to time series. From 2021 to 2024, I was a data science lecturer at Ecole Polytechnique Executive Education, Ecole Polytechnique (X-HEC Data Science for Business MScT), and CentraleSupélec Executive Education.
 
-Contact: `sylvain.combettes8 [a t] gmail.com`
-
 ## News
 
 - [Mar. 2026] We join the <a href="https://www.linkedin.com/posts/sylvain-combettes_agoranov-accueille-4-nouvelles-startups-activity-7445754111263653888-8N6C">Agoranov</a>  incubator!
